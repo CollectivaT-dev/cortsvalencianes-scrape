@@ -17,6 +17,23 @@ class Stream(object):
         self.chunklist_url = None
         self.stream_filename = None
 
+    def download_stream(self):
+        # TODO assert params exist
+        if not self.chunklist_url:
+            self.get_chunklist()
+        restore = PickleContextRestore()
+        context = M3u8Context(file_url=self.chunklist_url,
+                              referer='',
+                              threads=3,
+                              output_file=self.stream_filename,
+                              get_m3u8file_complete=False,
+                              downloaded_ts_urls=[],
+                              quiet=False)
+        context['base_url'] = os.path.dirname(self.chunklist_url) + '/'
+        context['sslverify'] = False
+
+        execute(restore, context)
+
     def get_chunklist(self):
         if not self.pointer_url:
             self.get_pointer_url()
@@ -40,7 +57,7 @@ class Stream(object):
         self.stream_filename = '_'.join([self.base_name, chunk_code])+'.ts'
 
     def get_pointer_url(self):
-        # TODO get all parts
+        # TODO parse JS and get all parts
         res = requests.get(self.script_url, verify=False)
         search = re.search('JSPLAYLIST.*m3u8',str(res.content))
         if search:
@@ -56,23 +73,19 @@ class Stream(object):
             msg = 'stream pointer url not found in script'
             raise ValueError(msg)
 
-    def download_stream(self):
-        # TODO assert params exist
-        restore = PickleContextRestore()
-        context = M3u8Context(file_url=self.chunklist_url,
-                              referer='',
-                              threads=3,
-                              output_file=self.stream_filename,
-                              get_m3u8file_complete=False,
-                              downloaded_ts_urls=[],
-                              quiet=False)
-        context['base_url'] = os.path.dirname(self.chunklist_url) + '/'
-        context['sslverify'] = False
-
-        execute(restore, context)
+def download_stream(recording, name):
+    stream = Stream(recording['url'], name)
+    stream.download.stream()
 
 def main():
     items = json.load(open('items.json'))
+    for page, recordings in items.items():
+        for i, recording in enumerate(recordings):
+            if 'Ple' in recording['title']:
+                if not recording.get('uri'):
+                    print('downloading %s'recording['title'].strip())
+                    name = '_'.join([page,str(i)])
+                    dowload_stream(recording, name)
 
 if __name__ == "__main__":
     main()
