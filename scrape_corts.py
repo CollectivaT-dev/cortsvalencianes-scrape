@@ -10,7 +10,7 @@ def main():
     localizer_pages = get_localizer_pages(query_url, max_page)
 
     localizer_dict = {}
-    for i, page in enumerate(localizer_pages[:2]):
+    for i, page in enumerate(localizer_pages):
         localizer_dict[i] = extract_localizer_page(page)
 
     with open('items.json', 'w') as out:
