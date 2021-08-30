@@ -4,6 +4,7 @@ venv
 __pycache__
 
 # files
+*.swp
 items.json
 *.m3u8
 *.ts

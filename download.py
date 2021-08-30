@@ -12,7 +12,7 @@ class Stream(object):
         self.base_name = base_name
 
         # process variables
-        self.pointer_url = None
+        self.pointer_urls = []
         self.chunklist = None
         self.chunklist_url = None
         self.stream_filename = None
@@ -40,9 +40,10 @@ class Stream(object):
             print(msg)
 
     def get_chunklist(self):
-        if not self.pointer_url:
+        if not self.pointer_urls:
             self.get_pointer_url()
-        res = requests.get(self.pointer_url, verify=False)
+        # TODO loop for multiple pointer_urls
+        res = requests.get(self.pointer_urls[0], verify=False)
         playlist_url = res.url
         base_url = os.path.dirname(playlist_url)
 
@@ -53,7 +54,6 @@ class Stream(object):
         if self.chunklist:
             self.chunklist_url = playlist_url.replace('playlist.m3u8','')+\
                                            self.chunklist
-            #self.base_name = 
         else:
             # logging
             raise ValueError('chunklist not found in playlist')
@@ -78,12 +78,22 @@ class Stream(object):
             msg = 'js script not found'
             raise ValueError(msg)
 
-        search = re.search('http.*?m3u8', script)
-        if search:
-            self.pointer_url = search.group()
-        else:
-            msg = 'stream pointer url not found in script'
+        # parse JS
+        playlist_vars = list(set(re.findall('JSPLAYLIST1\[\d\]', script)))
+        if len(playlist_vars) == 0
+            msg = 'stream pointer urls not found in script'
             raise ValueError(msg)
+        for i in range(len(playlist_vars)):
+            elements = re.findall('JSPLAYLIST1\[%i].*?;'%i, script)
+            # TODO parse all elements
+            for element in elements:
+                if 'm3u8' in element:
+                    search = re.search('http.*?m3u8', script)
+                    if search:
+                        self.pointer_urls.append(search.group())
+                    else:
+                        msg = 'stream pointer url not found for element %i'%i
+                        raise ValueError(msg)
 
 def download_stream(recording, name):
     stream = Stream(recording['url'], name)
