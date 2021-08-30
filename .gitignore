@@ -1,1 +1,10 @@
+# directories
 venv
+.tmpts
+__pycache__
+
+# files
+items.json
+*.m3u8
+*.ts
+*.restore
