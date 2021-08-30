@@ -62,7 +62,7 @@ class Stream(object):
         self.stream_filename = '_'.join([self.base_name, chunk_code])+'.ts'
         page = self.base_name.strip('_')[0]
         # TODO add absolute path
-        stream_path = os.path.join('sessions', page, self.stream_filename)
+        stream_path = os.path.join('sessions', page)
         self.full_stream_path = os.path.join(stream_path, self.stream_filename)
 
         if not os.path.exists(stream_path):
