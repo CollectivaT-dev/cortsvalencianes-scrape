@@ -16,6 +16,7 @@ class Stream(object):
         self.chunklist = None
         self.chunklist_url = None
         self.stream_filename = None
+        self.full_stream_path = None
 
     def download_stream(self):
         # TODO assert params exist
@@ -32,7 +33,11 @@ class Stream(object):
         context['base_url'] = os.path.dirname(self.chunklist_url) + '/'
         context['sslverify'] = False
 
-        execute(restore, context)
+        if not os.path.isfile(self.full_stream_path):
+            execute(restore, context)
+        else:
+            msg = '%s is available skipping'
+            print(msg)
 
     def get_chunklist(self):
         if not self.pointer_url:
@@ -55,6 +60,13 @@ class Stream(object):
 
         chunk_code = re.sub('(chunklist_)|(\.m3u8)', '', self.chunklist)
         self.stream_filename = '_'.join([self.base_name, chunk_code])+'.ts'
+        page = self.base_name.strip('_')[0]
+        # TODO add absolute path
+        stream_path = os.path.join('sessions', page, self.stream_filename)
+        self.full_stream_path = os.path.join(stream_path, self.stream_filename)
+
+        if not os.path.exists(stream_path):
+            os.makedirs(stream_path)
 
     def get_pointer_url(self):
         # TODO parse JS and get all parts
@@ -75,7 +87,7 @@ class Stream(object):
 
 def download_stream(recording, name):
     stream = Stream(recording['url'], name)
-    stream.download.stream()
+    stream.download_stream()
 
 def main():
     items = json.load(open('items.json'))
@@ -83,9 +95,9 @@ def main():
         for i, recording in enumerate(recordings):
             if 'Ple' in recording['title']:
                 if not recording.get('uri'):
-                    print('downloading %s'recording['title'].strip())
                     name = '_'.join([page,str(i)])
-                    dowload_stream(recording, name)
+                    print('downloading %s'%(recording['title'].strip()))
+                    download_stream(recording, name)
 
 if __name__ == "__main__":
     main()
