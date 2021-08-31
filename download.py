@@ -26,7 +26,7 @@ class Stream(object):
         context = M3u8Context(file_url=self.chunklist_url,
                               referer='',
                               threads=3,
-                              output_file=self.stream_filename,
+                              output_file=self.full_stream_path,
                               get_m3u8file_complete=False,
                               downloaded_ts_urls=[],
                               quiet=False)
