@@ -9,3 +9,4 @@ items.json
 *.m3u8
 *.ts
 *.restore
+*.tar.gz

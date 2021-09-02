@@ -2,6 +2,7 @@ import json
 import os
 import re
 import requests
+from datetime import datetime
 from m3u8_dl import M3u8Context, M3u8Downloader, PickleContextRestore
 from m3u8_dl.cli import execute
 from subprocess import Popen, PIPE
@@ -36,7 +37,7 @@ class Stream(object):
         if not os.path.isfile(self.full_stream_path):
             execute(restore, context)
         else:
-            msg = '%s is available skipping'
+            msg = '%s is available skipping'%self.full_stream_path
             print(msg)
 
     def get_chunklist(self):
@@ -59,7 +60,7 @@ class Stream(object):
             raise ValueError('chunklist not found in playlist')
 
         chunk_code = re.sub('(chunklist_)|(\.m3u8)', '', self.chunklist)
-        self.stream_filename = '_'.join([self.base_name, chunk_code])+'.ts'
+        self.stream_filename = self.base_name + '.ts'
         page = self.base_name.split('_')[0]
         # TODO add absolute path
         stream_path = os.path.join('sessions', page)
@@ -101,19 +102,25 @@ class Stream(object):
 
 def download_stream(recording, name):
     stream = Stream(recording['url'], name)
-    #stream.get_pointer_url()
     stream.download_stream()
+    return stream
 
 def main():
     items = json.load(open('items.json'))
     for page, recordings in items.items():
-    #for page, recordings in list(items.items())[-2:-1]:
+    #for page, recordings in list(items.items())[-3:-1]:
         for i, recording in enumerate(recordings):
             if 'Ple' in recording['title']:
-                if not recording.get('uri'):
-                    name = '_'.join([page,str(i)])
-                    print('downloading %s'%(recording['title'].strip()))
-                    download_stream(recording, name)
+                date = datetime.strptime(recording['Fecha:'],
+                                         '%d/%m/%Y %H:%M')
+                if not recording.get('uri') and \
+                       date > datetime(2007, 6, 15):
+                    datestr = date.strftime('%Y%m%d_%H%M')
+                    name = '_'.join([page,str(i),datestr])
+                    print('downloading %s'%(recording['title'].strip()), name)
+                    stream = download_stream(recording, name)
+                    #if file exists:
+                    recording['uri'] = stream.full_stream_path
 
 if __name__ == "__main__":
     main()
