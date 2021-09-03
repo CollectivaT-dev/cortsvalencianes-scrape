@@ -21,7 +21,7 @@ def main():
 
 def get_max_page(query_url):
     # TODO parse query results maximum no of pages 
-    return 154
+    return 155
 
 def get_localizer_pages(query_url, max_page):
     localizer_pages = []
@@ -49,13 +49,12 @@ def extract_localizer_page(url):
     return gallery_items
 
 def extract_div_details(gallery_item, div_details):
-    div = div_details.findChild()
-    div_cl = RE_CL.sub(' ', str(div))
+    div_cl = RE_CL.sub(' ', str(div_details))
     keys = [result[1] for result in re.findall('(<span>)(.*?)(</span)', div_cl)]
     values = [result[1] for result in re.findall('(</span>)(.*?)(<)', div_cl)]
     for key, value in zip(keys, values):
-        gallery_item[key.strip()] = value.strip()
-    
+        if '>' not in value:
+            gallery_item[key.strip()] = value.strip()
 
 if __name__ == "__main__":
     main()
