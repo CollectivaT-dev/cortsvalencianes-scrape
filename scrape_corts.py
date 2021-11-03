@@ -21,7 +21,7 @@ def main():
 
 def get_max_page(query_url):
     # TODO parse query results maximum no of pages 
-    return 155
+    return 158
 
 def get_localizer_pages(query_url, max_page):
     localizer_pages = []

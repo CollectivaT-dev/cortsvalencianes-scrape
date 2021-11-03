@@ -16,13 +16,17 @@ def leg_order(pages):
     legislatura = {}
     for page in pages.values():
         for session in page:
-            leg = session['Legislatura/Mandato:']
-            session['datetime'] = datetime.strptime(session['Fecha:'],
-                                                '%d/%m/%Y %H:%M')
-            if not legislatura.get(leg):
-                legislatura[leg] = []
-            if 'Ple' in session['title']:
-                legislatura[leg].append(session)
+            leg = session.get('Legislatura/Mandato:')
+            if not leg:
+                msg = 'legislature info not found for %s'%str(session)
+                print(msg)
+            else:
+                session['datetime'] = datetime.strptime(session['Fecha:'],
+                                                    '%d/%m/%Y %H:%M')
+                if not legislatura.get(leg):
+                    legislatura[leg] = []
+                if 'Ple' in session['title']:
+                    legislatura[leg].append(session)
     return legislatura
 
 def generate(legs):
