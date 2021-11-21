@@ -1,9 +1,23 @@
 import json
 import re
-from datetime import datetime
+import requests
+from datetime import datetime, timedelta
+from bs4 import BeautifulSoup as bs4
 
 RE_NO = re.compile('^\d*')
 URL = 'https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=%s&idioma=ca_VA'
+MONTH = {"gener":  1,
+        "febrer": 2,
+        "març":   3,
+        "abril":  4,
+        "maig":   5,
+        "juny":   6,
+        "juliol": 7,
+        "agost":  8,
+        "setembre": 9,
+        "octubre":  10,
+        "novembre": 11,
+        "desembre": 12}
 
 def main():
     pages = json.load(open('items.json'))
@@ -32,10 +46,38 @@ def leg_order(pages):
 def generate(legs):
     for legislature, sessions in legs.items():
         sessions_sorted = sorted(sessions, key=lambda x: x['datetime'])
+        print(legislature)
+        doc_no = 0
         for i, session in enumerate(sessions_sorted):
-            session['diari_url'] = generate_urls(legislature, i, session)
+            next_session = sessions_sorted[i+1]
+            session['diari_urls'], diari_date, doc_no = find_urls(legislature,
+                                                                  doc_no,
+                                                                  session,
+                                                                  next_session)
             session['datetime'] = str(session['datetime'])
+            session['diari_datetime'] = str(diari_date)
+            print(next_session['title'])
         legs[legislature] = sessions_sorted
+
+def find_urls(key, no, session, next_session):
+    diari_urls = []
+    current_date = session['datetime']
+    current_sessio = int(parse_metadata_sessio(session['title']))
+    next_date =  next_session['datetime']
+    next_sessio = int(parse_metadata_sessio(next_session['title']))
+    diari_url = generate_urls(key, no, session)
+    diari_date, diari_sessio = parse_diari(diari_url)
+    while diari_sessio < next_sessio:
+        diari_urls.append(diari_url)
+        no += 1
+        diari_url = generate_urls(key, no, session)
+        diari_date, diari_sessio = parse_diari(diari_url)
+        print(diari_sessio, 'vs', next_sessio)
+    return diari_urls, diari_date, no
+
+def parse_metadata_sessio(title):
+    result = re.search('Sessió (\d+) Ple', title)
+    return int(result.groups()[0])
 
 def generate_urls(key, no, session):
     roman = {'1':'I', '3':'III', '7':'VII', '8':'VIII', '9':'IX', '10':'X'}
@@ -44,6 +86,44 @@ def generate_urls(key, no, session):
     code_m = "{:05d}".format(no+1) 
     code = code_l + code_m + '0'
     return URL%code
+
+def parse_diari(url):
+    res = requests.get(url)
+    print(url)
+    soup = bs4(res.content, 'html.parser')
+    text = soup.findChildren()[0].text[:1000]
+    clean_text = re.sub('’|‘', "'", re.sub('\s\s+',' ',text))
+    date = parse_date(clean_text)
+    sessio = parse_sessio(clean_text)
+    return date, sessio
+
+def parse_date(clean_text):
+    # get day
+    result = re.search('el dia (\d+) de ([a-zç]+) de (\d+)', clean_text)
+    if not result:
+        result = re.search("el dia (\d+) d'([a-z]+) de (\d+)", clean_text)
+        if not result:
+            raise ValueError('date not found in text: %s'%clean_text[:200])
+    day, month, year = result.groups()
+    # get hour
+    result = re.search('(\d+) hores', clean_text)
+    if not result:
+        raise ValueError('hour not found in text: %s'%clean_text[:200])
+    hour = result.groups()[0]
+    result = re.search(' i (\d+) minut', clean_text)
+    if result:
+        minute = result.groups()[0]
+    else:
+        minute = 0
+    return datetime(int(year), MONTH[month], int(day), int(hour), int(minute))
+
+def parse_sessio(clean_text):
+    result = re.search('plenària número (\d+)', clean_text)
+    if not result:
+        result = re.search('plenàària núúmero (\d+)', clean_text)
+        if not result:
+            raise ValueError('sessio not found in text: %s'%clean_text[150:300])
+    return int(result.groups()[0])
 
 if __name__ == "__main__":
     main()
