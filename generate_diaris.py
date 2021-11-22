@@ -97,7 +97,9 @@ def find_urls(key, no, session):
     return diari_urls, diari_date, no
 
 def parse_metadata_sessio(title):
-    title_clean = re.sub('\([^)]*\)','', title).replace('  ',' ')
+    title_step = title.replace('(Ple ', 'Ple (')
+    title_step2 = title_step.replace('Sessió Ple','Sessió ')+' Ple'
+    title_clean = re.sub('\([^)]*\)','', title_step2).replace('  ',' ')
     result = re.search('Sessió (\d+) Ple', title_clean)
     part = 0
     sessio_2 = None

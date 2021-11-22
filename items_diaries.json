@@ -10,7 +10,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2007-JUN-14/1",
       "datetime": "2007-06-14 11:00:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000010&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000010&idioma=ca_VA"
+      ],
+      "diari_datetime": "2007-06-25 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NTgxYzc4N2QtMTcwMi00NTIwLTlhZWQtNDIzZjcyNjMwNmNj",
@@ -21,7 +24,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2007-JUN-25/1",
       "datetime": "2007-06-25 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000020&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000020&idioma=ca_VA"
+      ],
+      "diari_datetime": "2007-06-27 12:08:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YTFmOGYwZTQtN2M2YS00MWFmLTgyYzktOGQyZjU0YmFmOWZi",
@@ -32,7 +38,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2007-JUN-27/1",
       "datetime": "2007-06-27 12:00:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000030&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000030&idioma=ca_VA"
+      ],
+      "diari_datetime": "2007-07-17 10:38:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MmFhOWEzYjEtNjliMi00MGU0LWIyZDUtZWZlOTMyNzdlODAw",
@@ -43,7 +52,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2007-JUL-17/1",
       "datetime": "2007-07-17 10:00:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000040&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000040&idioma=ca_VA"
+      ],
+      "diari_datetime": "2007-07-17 11:26:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YmIzOGM2OWUtZjk2ZC00M2NhLThlMGEtYjUxODZmNGRlMTM0",
@@ -54,7 +66,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2007-JUL-17/2",
       "datetime": "2007-07-17 11:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000050&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000050&idioma=ca_VA"
+      ],
+      "diari_datetime": "2007-09-18 16:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=Y2M0ZTdiOTMtZTkwNy00NjhjLTgzZDAtNDljOGEyYWRjZGUw",
@@ -65,7 +80,12 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2007-SET-18/1",
       "datetime": "2007-09-18 16:05:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000060&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000060&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000070&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000080&idioma=ca_VA"
+      ],
+      "diari_datetime": "2007-09-25 16:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZTBhYzg5ZDUtZTJiYy00OGM0LTgxZmYtNWNjNWEzOGJjYzRi",
@@ -76,7 +96,12 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2007-SET-25/1",
       "datetime": "2007-09-25 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000070&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000090&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000100&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000110&idioma=ca_VA"
+      ],
+      "diari_datetime": "2007-10-03 10:57:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NGYyMDViZTEtMzg3MS00YTYzLTkyNGEtNmM0OWU0MTFmYTU0",
@@ -87,7 +112,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2007-OCT-3/1",
       "datetime": "2007-10-03 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000080&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000120&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000130&idioma=ca_VA"
+      ],
+      "diari_datetime": "2007-10-17 10:54:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MmZiNjA4Y2MtZDcxZi00NDZmLWFhMGEtZWIxZTE5M2FkZWE3",
@@ -98,7 +127,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2007-OCT-17/1",
       "datetime": "2007-10-17 10:58:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000090&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000140&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000150&idioma=ca_VA"
+      ],
+      "diari_datetime": "2007-10-24 10:37:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YTMxOTRhMTEtYjM5MC00MjRkLTlhOWEtMjEyMzkzNWM2ZmYy",
@@ -109,7 +142,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2007-OCT-24/1",
       "datetime": "2007-10-24 10:50:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000100&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000160&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000170&idioma=ca_VA"
+      ],
+      "diari_datetime": "2007-11-14 10:43:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTY3OGIyY2YtZmM0Mi00NzE2LThhZmItODY2MWY2NjcwNWJj",
@@ -120,7 +157,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2007-NOV-14/1",
       "datetime": "2007-11-14 10:41:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000110&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000180&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000190&idioma=ca_VA"
+      ],
+      "diari_datetime": "2007-11-19 10:41:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDNlZmM3OTAtNjdmNy00Njc5LTkyODEtODQ1MTk4NzQyMzYx",
@@ -131,7 +172,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2007-NOV-19/1",
       "datetime": "2007-11-19 10:40:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000120&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000200&idioma=ca_VA"
+      ],
+      "diari_datetime": "2007-11-20 10:42:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTY3M2UwNTQtMzMxNy00ZTU2LTk2Y2ItZjI5OGNiYmMzZTZj",
@@ -142,7 +186,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2007-NOV-20/1",
       "datetime": "2007-11-20 10:40:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000130&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000210&idioma=ca_VA"
+      ],
+      "diari_datetime": "2007-11-28 10:42:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTM4ZTlkOTktODZkYi00NmU3LWFlN2ItOGJmYTY2YWRiMWY4",
@@ -153,7 +200,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2007-NOV-28/1",
       "datetime": "2007-11-28 10:40:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000140&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000220&idioma=ca_VA"
+      ],
+      "diari_datetime": "2007-12-18 10:36:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjgxNzNhZDEtY2U4YS00N2RlLWJlZjMtYTI0MTFjYmZmMTEw",
@@ -164,7 +214,12 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2007-DES-18/1",
       "datetime": "2007-12-18 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000150&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000230&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000240&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000250&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-02-20 10:48:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=N2EzYjMyNmMtNWUwMi00NjA3LTliYTYtOWQzODhkZDdiM2I2",
@@ -175,7 +230,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-FEB-20/1",
       "datetime": "2008-02-20 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000160&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000260&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000270&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-03-25 11:43:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=M2JhZWFmYzktMjIyYy00NzE2LWE1ODYtZWMwOTM5NWE5NThl",
@@ -186,7 +245,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-MAR-25/1",
       "datetime": "2008-03-25 11:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000170&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000280&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-03-25 12:00:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YTg3MmM1MTUtNTEyNy00YzM5LWIzZWYtZDkzZDRhNzY1NTQ0",
@@ -197,7 +259,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-MAR-25/2",
       "datetime": "2008-03-25 12:00:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000180&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000290&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-04-09 10:40:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NTJkOWNkZWEtMWE5Ni00ZDEwLTlhOGUtMjAyNTc2ZWFkMjFm",
@@ -208,7 +273,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-ABR-09/1",
       "datetime": "2008-04-09 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000190&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000300&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000310&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-04-16 10:37:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZmYyNTcxMTYtYzJmMy00NTZmLTg1NTktYzgwYzNiOWM0NzY2",
@@ -219,7 +288,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-ABR-16/1",
       "datetime": "2008-04-16 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000200&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000320&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000330&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-04-22 10:47:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NWNkNzMxNzEtMDk0My00Mzc2LWJmZjMtYjRjYTg1MzgyM2Zk",
@@ -230,7 +303,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-ABR-22/1",
       "datetime": "2008-04-22 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000210&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000340&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-04-23 10:35:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZmQ4ZGVhMDMtNWY2Ni00YmMzLWE5NGQtNTFlMjVjOTdkMmUx",
@@ -241,7 +317,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-ABR-23/1",
       "datetime": "2008-04-23 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000220&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000350&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000360&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-05-07 10:40:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTlkYTI1NTAtZjc3Ny00OWIwLTliYjktN2M4MTg1M2M2NTA5",
@@ -252,7 +332,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-MAI-07/1",
       "datetime": "2008-05-07 10:40:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000230&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000370&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000380&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-05-14 10:00:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MWUyZThlMGUtN2NhYy00ZjhlLWIxZmUtOTlmNjhjNTVhNWNm",
@@ -263,7 +347,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-MAI-14/1",
       "datetime": "2008-05-14 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000240&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000390&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000400&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-05-21 10:40:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NTQ3MTUwMjAtMzZhMy00MWVjLThmMTQtZjhmYjA5ZDkwMzkw",
@@ -274,7 +362,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-MAI-21/1",
       "datetime": "2008-05-21 10:40:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000250&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000410&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000420&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-06-04 10:38:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NmJkMzVlZDQtNjMzOS00OGFjLThmYjUtYjQ0ZjkxMTkxMWE0",
@@ -285,7 +377,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-JUN-04/1",
       "datetime": "2008-06-04 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000260&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000430&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000440&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-06-11 10:40:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZDQxNTk0YzUtYTU2Mi00OTAxLTljMzEtZTFlNDZiYzI2MDEw",
@@ -296,7 +392,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-JUN-11/1",
       "datetime": "2008-06-11 10:07:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000270&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000450&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000460&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-06-26 10:08:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NDEwZTk0MDgtYTg0Ni00YjI2LTllOGEtYzU1MWRjNTJkNGM3",
@@ -307,7 +407,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-JUN-26/1",
       "datetime": "2008-06-26 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000280&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000470&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-09-23 10:35:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDY5ZjQ2ODItNzJmMy00YmFmLTkzNTctYzZhNzRlMDEzMTdk",
@@ -318,7 +421,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-SET-23/1",
       "datetime": "2008-09-23 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000290&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000480&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000490&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-09-24 19:41:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YWRlNGFhMmEtNTA3OS00MjA2LTlhMzYtYTA4N2Y2MDk4ZTYx",
@@ -329,7 +436,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-SET-24/1",
       "datetime": "2008-09-24 18:00:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000300&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000500&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-10-01 10:38:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDMxNWQxNTItNWU2NS00NTE3LWJhOGMtMGQwOGE2NzcxNTZm",
@@ -340,7 +450,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-OCT-01/1",
       "datetime": "2008-10-01 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000310&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000510&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000520&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-10-15 10:36:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzYxNGYyZTQtYmU3NC00ZjRjLTg5Y2MtMjFhZjU3ZmNjZmY1",
@@ -351,7 +465,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-OCT-15/1",
       "datetime": "2008-10-15 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000320&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000530&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000540&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-10-22 10:39:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=Y2MxMmUwNjQtZGMyZi00NzE0LTg5NGEtMmQ3Y2E1YTYwYmEx",
@@ -362,7 +480,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-OCT-22/1",
       "datetime": "2008-10-22 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000330&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000550&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000560&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-10-29 10:43:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OGIwZWFlMWUtYWEzYy00NjQwLTkxZTAtYjY0YzFlMzA3NGM0",
@@ -373,7 +495,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-OCT-29/1",
       "datetime": "2008-10-29 10:40:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000340&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000570&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000580&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-11-12 10:48:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NmJhY2ViODYtNWM3OS00YzhhLTg0MWYtZDkwZWJiYjljMDNm",
@@ -384,7 +510,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-NOV-12/1",
       "datetime": "2008-11-12 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000350&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000590&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000600&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-11-17 10:35:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZTI1Y2I4M2QtOGViNS00ODBkLWExYjctMTRjN2I3YzcwZTdm",
@@ -395,7 +525,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-NOV-17/1",
       "datetime": "2008-11-17 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000360&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000610&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-11-18 10:55:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NjMzY2JmMmItNzkzMC00ZjNjLTg5ZjgtMGQyZDk4NzQzZjFi",
@@ -406,7 +539,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-NOV-18/1",
       "datetime": "2008-11-18 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000370&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000620&idioma=ca_VA"
+      ],
+      "diari_datetime": "2008-11-26 10:48:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NzExNWYyZTYtOGM2Zi00NjAyLWJmZmYtZWRjMDJjOWMyZmM1",
@@ -417,7 +553,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-NOV-26/1",
       "datetime": "2008-11-26 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000380&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000630&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000640&idioma=ca_VA"
+      ],
+      "diari_datetime": "2087-12-16 10:40:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YzhhZjY3NjYtODUxNy00ZDFmLTk0NjgtZTM4ZjdjZDE3NmUz",
@@ -428,7 +568,12 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2008-DES-16/1",
       "datetime": "2008-12-16 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000390&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000650&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000660&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000670&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-01-28 11:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=M2E5NmZkNjMtODliNi00NTEwLTg0YzktMThlZTU5MjlhNjVk",
@@ -439,7 +584,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-GEN-28/1",
       "datetime": "2009-01-28 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000400&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000680&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-02-11 10:35:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NGYxNWVlMWYtM2RhMy00OTdiLThmY2UtYjhjY2MxNGExYzU0",
@@ -450,7 +598,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-FEB-11/1",
       "datetime": "2009-02-11 10:31:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000410&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000690&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000700&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-02-18 10:40:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZmJkM2M1MTktYjZmYS00Njc1LWFlMDYtNDE5YTQ4ZTYwYjUz",
@@ -461,7 +613,12 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-FEB-18/1",
       "datetime": "2009-02-18 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000420&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000710&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000720&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000730&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-03-05 10:04:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NTZiZGFhYjEtZWY2Yi00N2E4LTgwNjgtODdlYjI2ZDk4MjFm",
@@ -472,7 +629,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-MAR-04/1",
       "datetime": "2009-03-04 10:31:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000430&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000740&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-03-11 10:41:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjA5YTZiZjUtZDczNC00N2FiLWI3ODEtOGVlYWNkM2I1ZDFl",
@@ -483,7 +643,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-MAR-11/1",
       "datetime": "2009-03-11 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000440&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000750&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000760&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-04-01 10:46:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YzQ1NTI4MDUtZjQwNC00NjMyLWE5NmYtNWI0YzMxMDZkM2Y1",
@@ -494,7 +658,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-ABR-01/1",
       "datetime": "2009-04-01 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000450&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000770&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000780&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-04-29 10:46:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MmZmMjQ1MmQtODkzOS00MzRhLWI4NTktYjgxNTM5MGQwNjY4",
@@ -505,7 +673,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-ABR-29/1",
       "datetime": "2009-04-29 10:45:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000460&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000790&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000800&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-05-06 10:45:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzE0ZjZkMDEtYTYyNi00YmJiLWIwMzEtODJhZmVjNzMwOTQx",
@@ -516,7 +688,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-MAI-06/1",
       "datetime": "2009-05-06 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000470&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000810&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000820&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-05-13 10:37:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OTc5N2JlOWMtMjFiNS00OWVhLWJkNWMtMTY3NjkyZTU3N2U5",
@@ -527,7 +703,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-MAI-13/1",
       "datetime": "2009-05-13 10:41:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000480&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000830&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000840&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-05-20 10:41:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjA0OTBlZDgtYzE0My00YTg3LThmZTUtNmQ1NTNlYjE4MWE2",
@@ -538,7 +718,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-MAI-20/1",
       "datetime": "2009-05-20 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000490&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000850&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000860&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-06-10 10:38:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZWRhNjBhMWQtZmMwNi00YzNhLThiMDMtM2I0YmI3N2ZhNzQw",
@@ -549,7 +733,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-JUN-10/1",
       "datetime": "2009-06-10 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000500&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000870&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000880&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-06-25 10:46:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NTMwZTlmNTgtMmZkOC00NjIxLWI5MTUtODcwYmM3NDU2Y2U1",
@@ -560,7 +748,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-JUN-25/1",
       "datetime": "2009-06-25 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000510&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000890&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-09-29 10:42:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZmE5ZDMyNzItNjU3NS00M2M0LWE5MjQtN2MzNGIwODcwN2Nk",
@@ -571,7 +762,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-SET-29/1",
       "datetime": "2009-09-29 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000520&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000900&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000910&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-10-14 10:52:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjhiZWE4NzItYjI3MS00OGQyLWIxY2ItOTY1ZGJmZmM0Y2U1",
@@ -582,7 +777,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-OCT-14/1",
       "datetime": "2009-10-14 10:31:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000530&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000920&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000930&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-10-21 10:40:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MGVhZGQ1ODUtMTA3My00ZjM3LTk5NmYtMDI3ZmU4NzA3ODMx",
@@ -593,7 +792,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-OCT-21/1",
       "datetime": "2009-10-21 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000540&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000940&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000950&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-10-28 10:37:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NWFlMzc5NDktMzJhOS00NGQ2LWI4YzAtODA1MjI3YjEzZmVi",
@@ -604,7 +807,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-OCT-28/1",
       "datetime": "2009-10-28 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000550&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000960&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000970&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-11-11 10:40:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzgyYzlmZDQtNWRjMi00YmVmLTg2N2MtZjVlN2MyNzVhNTRi",
@@ -615,7 +822,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-NOV-11/1",
       "datetime": "2009-11-11 10:40:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000560&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000980&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000990&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-11-18 10:35:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YzYxZDM0NzUtZTY3ZS00MWQ0LTgwMTAtN2Y2MTc2NDdlODlm",
@@ -626,7 +837,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-NOV-18/1",
       "datetime": "2009-11-18 10:33:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000570&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001000&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-11-25 10:39:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZDdkNjJjOTktYWViNy00OWYzLWE4Y2EtOGQyN2Y0NjQyMTk0",
@@ -637,7 +851,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-NOV-25/1",
       "datetime": "2009-11-25 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000580&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001010&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-11-25 13:24:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OGNhMDI4Y2UtNTU0OC00ZTk4LTgwYjUtZmJhYWE0MDc4ODMx",
@@ -648,7 +865,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-NOV-25/2",
       "datetime": "2009-11-25 13:27:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000590&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001020&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-12-15 10:44:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZGQzYjQyMjgtMWIxYS00NDhkLWE2YTAtMDY1ZWZjNWFmMmMx",
@@ -659,7 +879,13 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-DES-15/1",
       "datetime": "2009-12-15 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000600&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001030&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001040&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001050&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001060&idioma=ca_VA"
+      ],
+      "diari_datetime": "2009-12-21 11:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZmM4ZmIxZmYtMzhjYy00ZDBkLTlhYzgtZWQ1MmEzNThhNTc1",
@@ -670,7 +896,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2009-DES-21/1",
       "datetime": "2009-12-21 09:16:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000610&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001070&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-02-05 12:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjZlNzE5ZDgtZGRkMC00MjQ3LTk5NDYtMTc3Mjk1OWVlZjg3",
@@ -681,7 +910,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-FEB-05/1",
       "datetime": "2010-02-05 12:05:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000620&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001080&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-02-17 10:38:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OGJkMjdmNjgtNjc3My00ODk2LWIzZGItOGFhMjA0NjlmODNm",
@@ -692,7 +924,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-FEB-17/1",
       "datetime": "2010-02-17 10:16:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000630&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001090&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001100&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-02-24 10:44:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MWUyMGNhMDQtMWRiZi00YjQzLWI0NjctMDk1YjJlNDE2OWU5",
@@ -703,7 +939,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-FEB-24/1",
       "datetime": "2010-02-24 11:14:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000640&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001110&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001120&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-03-03 10:35:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=M2I4OWVmNGQtZTcwYS00OTQ3LTgzYjYtNDg1YWIyMmQ3MjIw",
@@ -714,7 +954,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-MAR-04/1",
       "datetime": "2010-03-04 10:23:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000650&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001130&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001140&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-03-24 10:34:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OWVhYzJjZGItZjhiMS00NTcyLThmODItYzdiY2M4MGU3ZTA2",
@@ -725,7 +969,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-MAR-24/1",
       "datetime": "2010-03-24 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000660&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001150&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001160&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-04-21 10:39:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NjE2MTUxZGItNjFlYy00MWVhLTgyMGUtNWM1MmQzY2IyMzc1",
@@ -736,7 +984,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-ABR-21/1",
       "datetime": "2010-04-21 10:39:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000670&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001170&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001180&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-04-28 10:38:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NDUyNDgzNjctMjQwOS00MWQ1LTkxZjgtYzViZTYwNGI2NWZh",
@@ -747,7 +999,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-ABR-28/1",
       "datetime": "2010-04-28 10:38:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000680&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001190&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001200&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-05-05 10:37:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MjgxYzdhMWUtNjZkNC00MDMyLTk4YWYtYjdlMWQ3ZDk1NTg4",
@@ -758,7 +1014,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-MAI-05/1",
       "datetime": "2010-05-05 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000690&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001210&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001220&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-05-19 10:41:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDFhODI5YTItNWVhMS00OGYxLTliODYtMDRkN2Q5YmM4ZTM3",
@@ -769,7 +1029,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-MAI-19/1",
       "datetime": "2010-05-19 10:41:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000700&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001230&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001240&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-05-26 10:45:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDlhMGRlNGMtMWZlMC00NjZlLWFjOTEtYmVhNGUzMDIzYzhk",
@@ -780,7 +1044,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-MAI-26/1",
       "datetime": "2010-05-26 10:44:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000710&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001250&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001260&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-05-27 12:30:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZjhkY2VhYTMtMGZmNi00Zjc3LThhNzgtMjgxYmM4Zjg5MTM2",
@@ -791,7 +1059,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-MAI-27/1",
       "datetime": "2010-05-27 12:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000720&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001270&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-06-09 10:36:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzNhNzVhN2QtZDgyYS00YjY4LTliNDEtZjBkNmVkOWUwYjFm",
@@ -802,7 +1073,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-JUN-09/1",
       "datetime": "2010-06-09 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000730&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001280&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001290&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-06-16 10:40:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NjA2MDEzNDUtNzVhZS00NDBmLWJlNDQtMjAwODExYzAwMTdm",
@@ -813,7 +1088,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-JUN-16/1",
       "datetime": "2010-06-16 10:40:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000740&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001300&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001310&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-06-29 10:10:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YzMzOTEyM2UtOGE0Yy00ODA2LTgyMDctYmZkODBiMzViOWIz",
@@ -824,7 +1103,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-JUN-29/1",
       "datetime": "2010-06-29 10:08:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000750&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001320&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-07-14 10:33:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ODg3ZTQ3MzAtZDMzOS00OTI1LWI5ZTgtZWY3MjMzN2Y0NTZh",
@@ -835,7 +1117,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-JUL-14/1",
       "datetime": "2010-07-14 10:33:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000760&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001330&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-09-27 10:33:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YWU3NjZiYjEtMDZmNy00YTE5LTg3YmItYzI2YzExM2Y0NDdm",
@@ -846,7 +1131,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-SET-27/1",
       "datetime": "2010-09-27 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000770&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001340&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001350&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-10-06 10:37:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDFiNzVhM2YtNDJhZS00NjMzLWFmODUtNzJmNzI3NWU2YTBk",
@@ -857,7 +1146,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-OCT-06/1",
       "datetime": "2010-10-06 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000780&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001360&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001370&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-10-20 10:33:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZTU1YzJiMzctMmZiYi00OTQ0LTlkNmYtYzczODFjZjg0ZmVm",
@@ -868,7 +1161,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-OCT-20/1",
       "datetime": "2010-10-20 10:33:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000790&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001380&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001390&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-10-27 10:37:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NzY3ZmY4OTYtNmQ2ZS00ZDFmLWE3NGMtMzIxMDQyZTNjY2Q4",
@@ -879,7 +1176,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-OCT-27/1",
       "datetime": "2010-10-27 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000800&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001400&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001410&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-11-10 10:11:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MGQ1OTI0NTEtNGQ3My00ODA1LTgzNDItOTdmODEwNjRkOWJi",
@@ -890,7 +1191,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-NOV-10/1",
       "datetime": "2010-11-10 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000810&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001420&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001430&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-11-18 10:34:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NTg4ZDdkOTItY2NjMC00NDBmLWJmNTQtYTU5ZDI1MmU0YWQ4",
@@ -901,7 +1206,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-NOV-18/1",
       "datetime": "2010-11-18 10:33:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000820&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001440&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-11-25 10:36:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=N2FhNjgxZDYtY2Q1OS00NzNmLWEyOTAtOTIwMTYzNDU3ZDI4",
@@ -912,7 +1220,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-NOV-25/1",
       "datetime": "2010-11-25 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000830&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001450&idioma=ca_VA"
+      ],
+      "diari_datetime": "2010-12-20 10:35:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZDJlZjY4OWEtNjBlNy00MDM3LTkxMGUtOWJlOGMyMmQwOGI4",
@@ -923,7 +1234,13 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2010-DES-20/1",
       "datetime": "2010-12-20 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000840&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001460&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001470&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001480&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001490&idioma=ca_VA"
+      ],
+      "diari_datetime": "2011-02-16 10:39:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZGNhNzJkNTYtODNkOC00M2Q1LWE0OTQtMzZhYTc3NDk2NjQw",
@@ -934,7 +1251,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2011-FEB-16/1",
       "datetime": "2011-02-16 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000850&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001500&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001510&idioma=ca_VA"
+      ],
+      "diari_datetime": "2011-02-23 10:36:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZWY3Yjg4M2MtM2ViOC00ZmRkLTg4Y2UtMzljNjZlNTBhNWVh",
@@ -945,7 +1266,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2011-FEB-23/1",
       "datetime": "2011-02-23 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000860&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001520&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001530&idioma=ca_VA"
+      ],
+      "diari_datetime": "2011-03-02 10:37:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NmZkYWI5OGEtZjdjYy00NmNiLWJlYmQtNzhmYmIwZWRjODA4",
@@ -956,7 +1281,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2011-MAR-02/1",
       "datetime": "2011-03-02 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000870&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-03-02 10:37:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTM2YWEwOWEtZjUwYi00MzFlLWE2MTktNTFhZTA5YzRlNjc4",
@@ -967,7 +1293,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2011-MAR-03/1",
       "datetime": "2011-03-03 10:01:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000880&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-03-02 10:37:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OTRkOWQ2ZDQtMzk2Zi00ODI0LTg3NjAtZDAwOWUwNDY5ODY4",
@@ -978,7 +1305,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2011-MAR-09/1",
       "datetime": "2011-03-09 10:44:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000890&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-03-02 10:37:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjZmOTNkYzQtYTJkMC00YzgyLWE5NjktNDJiYWY4MDU1Njc4",
@@ -989,7 +1317,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2011-MAR-24/1",
       "datetime": "2011-03-24 10:09:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 000900&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-03-02 10:37:00"
     }
   ],
   "3a Legislatura": [],
@@ -1003,7 +1332,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2011-JUN-09/1",
       "datetime": "2011-06-09 10:31:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000010&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000010&idioma=ca_VA"
+      ],
+      "diari_datetime": "2011-06-16 11:01:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MmE0ZTllYTYtNDQwYy00MjdhLTllOTQtYzQyNmJjZGE4MmE1",
@@ -1014,7 +1346,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2011-JUN-16/1",
       "datetime": "2011-06-16 11:01:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000020&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000020&idioma=ca_VA"
+      ],
+      "diari_datetime": "2011-06-21 11:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDM1MjU5MmEtMjFiMS00OWJiLWE2MDctNzg5MGMzNmI3NWJm",
@@ -1025,7 +1360,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2011-JUN-21/1",
       "datetime": "2011-06-21 11:07:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000030&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000030&idioma=ca_VA"
+      ],
+      "diari_datetime": "2011-06-30 13:02:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NDQ3ZGE1ZjQtMmRkNy00MGFlLWEyMjMtMjdiM2Y2OGNhNGU4",
@@ -1036,7 +1374,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2011-JUN-30/1",
       "datetime": "2011-06-30 13:02:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000040&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000040&idioma=ca_VA"
+      ],
+      "diari_datetime": "2011-07-14 10:37:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YzkzZWMxNDctNmY1NC00YzIwLTgzYzEtYjA5N2VkZDg0NTIx",
@@ -1047,7 +1388,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2011-JUL-14/1",
       "datetime": "2011-07-14 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000050&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000050&idioma=ca_VA"
+      ],
+      "diari_datetime": "2011-07-20 10:34:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=Y2VjZTZiNjQtZTAzYi00MzcxLWIxOWQtNGNiMzY1MDQxY2Qx",
@@ -1058,7 +1402,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2011-JUL-20/1",
       "datetime": "2011-07-20 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000060&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000060&idioma=ca_VA"
+      ],
+      "diari_datetime": "2011-07-26 11:02:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NDQ1MWY2NjQtNDcxNy00ZjQxLTkxMDQtZjJiZDU0YTEwNGVh",
@@ -1069,7 +1416,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2011-JUL-26/1",
       "datetime": "2011-07-26 11:02:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000070&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000070&idioma=ca_VA"
+      ],
+      "diari_datetime": "2011-07-28 11:01:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZjNkZmI2NTEtZjM0My00ZjE2LTkyYjctNWUzZDEyNWQzZjUw",
@@ -1080,7 +1430,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2011-JUL-28/1",
       "datetime": "2011-07-28 11:01:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000080&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000080&idioma=ca_VA"
+      ],
+      "diari_datetime": "2011-09-14 10:35:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZTMzNDcwZWYtMGEzOC00ZTdlLWE3MTMtMGIyZTM4Njg0NTVj",
@@ -1091,7 +1444,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2011-SET-14/1",
       "datetime": "2011-09-14 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000090&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000090&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000100&idioma=ca_VA"
+      ],
+      "diari_datetime": "2011-09-21 10:35:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NjY5ZDJlNzQtYWIyYi00YzZjLTgzODQtNjBiYTk1N2Y2OGNm",
@@ -1102,7 +1459,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2011-SET-21/1",
       "datetime": "2011-09-21 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000100&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000110&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000120&idioma=ca_VA"
+      ],
+      "diari_datetime": "2011-10-05 10:34:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OGI3NmE4ZjgtYmM2NS00ZDhjLTg4ZTUtNDIwNTA3Y2FmOGUy",
@@ -1113,7 +1474,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2011-OCT-05/1",
       "datetime": "2011-10-05 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000110&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000130&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000140&idioma=ca_VA"
+      ],
+      "diari_datetime": "2011-10-19 10:41:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjQxYmIwYjEtN2U5MS00NWQ1LWE1NzItYjhkN2U0NTI0MDc3",
@@ -1124,7 +1489,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2011-OCT-19/1",
       "datetime": "2011-10-19 10:41:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000120&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000150&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000160&idioma=ca_VA"
+      ],
+      "diari_datetime": "2011-11-21 10:34:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YTYyZDRkNDUtZTRjOS00NDkwLWEzMmMtMThjNGI3NDZmZTdm",
@@ -1135,7 +1504,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2011-NOV-21/1",
       "datetime": "2011-11-21 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000130&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000170&idioma=ca_VA"
+      ],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YTQyZmIzNzYtYzZiNy00OTBiLTllNTEtZWI0YmE4OTZiMTk4",
@@ -1146,7 +1518,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2011-NOV-24/1",
       "datetime": "2011-11-24 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000140&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MWQ4NzZlYjYtMGQxYS00MWFkLTkwNmUtMTFjNzIyMDM2OTlj",
@@ -1157,7 +1530,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2011-NOV-30/1",
       "datetime": "2011-11-30 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000150&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YzY1MTgwNGMtNzdlYy00ZjJmLTllOTEtODUzOTMwYWMzNzA4",
@@ -1168,7 +1542,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2011-DES-09/1",
       "datetime": "2011-12-09 12:04:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000160&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NjBkMzNmNjQtNDUxNC00NzMyLThjMmEtOGVmZDM5Nzg5ODE2",
@@ -1179,7 +1554,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2011-DES-19/1",
       "datetime": "2011-12-19 10:09:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000170&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YzIzYmMzYWMtOGY3MS00MmFjLWEwZjgtYzc1OThlNDE4NjE0",
@@ -1190,7 +1566,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-GEN-18/1",
       "datetime": "2012-01-18 10:02:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000180&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZGMyZTVlZDctYTQ4MS00ZGIzLWEzMmYtZjgyMzZkODlkMDI4",
@@ -1201,7 +1578,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-FEB-15/1",
       "datetime": "2012-02-15 10:33:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000190&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MmYzZDZiZjAtZGRmOC00NTJiLWI4YzctMDUwYzliZGNiN2Vm",
@@ -1212,7 +1590,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-FEB-22/1",
       "datetime": "2012-02-22 10:31:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000200&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MWI4MDUwM2ItN2NlOC00NjlkLTgxN2YtMzMwZDhmMjJkOGFi",
@@ -1223,7 +1602,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-FEB-22/2",
       "datetime": "2012-02-22 16:31:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000210&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=Nzc5YzJkMjgtODlmZC00MDJkLWE0MWMtODQ5NzU4YjM2MWM0",
@@ -1234,7 +1614,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-MAR-07/1",
       "datetime": "2012-03-07 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000220&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=N2VlMzYwZDgtMTg0Ny00ZDcxLTgzY2YtMmIzYzNhNzY1YjVk",
@@ -1245,7 +1626,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-MAR-21/1",
       "datetime": "2012-03-21 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000230&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YmY2NTM2OWYtYjhjNC00MzE0LTgxZTMtNmEwODBlNzRjOThi",
@@ -1256,7 +1638,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-MAR-28/1",
       "datetime": "2012-03-28 10:38:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000240&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZmI3MGVmODItZjgyMS00N2JjLTgwNmQtMGY1MmVjM2RiZWZm",
@@ -1267,7 +1650,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-ABR-25/1",
       "datetime": "2012-04-25 10:31:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000250&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZjRkZDFkNWUtMzk0Ny00MDVlLTgyMjctNDRhNTc1MTNlNjVl",
@@ -1278,7 +1662,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-MAI-09/1",
       "datetime": "2012-05-09 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000260&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTkwYTk4M2YtZTlkNS00ZGU1LThmMjItNjc1ZWFhN2YwYzAz",
@@ -1289,7 +1674,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-MAI-16/1",
       "datetime": "2012-05-16 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000270&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YzNjMmMwNWEtOTUwZS00ZWZmLTgxZTQtMGQ0ZGJlYzI0MjEy",
@@ -1300,7 +1686,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-MAI-23/1",
       "datetime": "2012-05-23 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000280&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MmYzYTY3NGMtMjhiZS00NzJiLWI3YTktMjEzMDhjYjBiNmNl",
@@ -1311,7 +1698,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-JUN-06/1",
       "datetime": "2012-06-06 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000290&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MGY2ZWVmNDgtNDA2Ny00YjEzLTgxZWQtMDE3ZDQzMTMzMjlk",
@@ -1322,7 +1710,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-JUN-13/1",
       "datetime": "2012-06-13 10:29:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000300&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OTBiYTU2YmYtN2Y3OC00MTdmLTk4ODEtZjNkMGM0MGUyMzE4",
@@ -1333,7 +1722,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-JUN-27/1",
       "datetime": "2012-06-27 10:33:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000310&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MWVhMjQ5MjEtYTNjZi00NmY0LWE0MTItMjhjNjE2NWFiMTEx",
@@ -1344,7 +1734,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-JUL-12/1",
       "datetime": "2012-07-12 10:04:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000320&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzFhMzNlMGYtMzRiZC00MDY4LTk3ZWYtMTY0OTljZmMxYjE5",
@@ -1355,7 +1746,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-JUL-12/2",
       "datetime": "2012-07-12 16:33:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000330&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NjhmNGQ1MGQtYzNkNS00MjFmLWFjY2UtYzJhZjkwZmFlOWRk",
@@ -1366,7 +1758,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-SET-25/1",
       "datetime": "2012-09-25 10:31:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000340&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=Mjc2NWJkNDEtYWNhZi00NGFiLWE3NmYtYWViNmY2NDk4NDZi",
@@ -1377,7 +1770,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-OCT-03/1",
       "datetime": "2012-10-03 10:33:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000350&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YTIzZWNjNGUtYzRkYS00OTNiLWJhODgtZmNiYTM0OTEwZGM5",
@@ -1388,7 +1782,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-OCT-17/1",
       "datetime": "2012-10-17 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000360&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MjY4M2M4ZDgtNmYyZC00ODE1LTg3ZTgtNTJiZjliNWM3YmMy",
@@ -1399,7 +1794,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-OCT-24/1",
       "datetime": "2012-10-24 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000370&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=Y2RlM2U4YTctY2IwMy00NDg0LTg1NzgtZGYwODA1N2YwY2M2",
@@ -1410,7 +1806,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-NOV-14/1",
       "datetime": "2012-11-14 10:33:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000380&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NDM0NjEyZWQtODY2My00YTQ2LTlmMTItNjk5N2RjYWQ5MmM4",
@@ -1421,7 +1818,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-NOV-20/1",
       "datetime": "2012-11-20 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000390&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YzQ3ZDc2ODEtYzNlZS00YzM1LWFkZjAtNWI3MDI5MjRlMzJh",
@@ -1432,7 +1830,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-NOV-22/1",
       "datetime": "2012-11-22 10:33:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000400&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZTFhNjUwM2MtMDdiNy00MzYzLWI4ODctYzYyZjdiYjA5MjY3",
@@ -1443,7 +1842,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-NOV-28/1",
       "datetime": "2012-11-28 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000410&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZTBhZGQ2ZDMtMWRkOC00OTFjLTljYjUtNjY5YjlmMjNmNWRl",
@@ -1454,7 +1854,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2012-DES-17/1",
       "datetime": "2012-12-17 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000420&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=N2RmNDkzMzYtMmUxZS00MWYxLWJkNWMtNTYzYTQ5YjA0MGIw",
@@ -1465,7 +1866,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-FEB-13/1",
       "datetime": "2013-02-13 10:33:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000430&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MmM4MTFhNDctOTA2NS00ZjgxLWE2NjctMTU4NGZhZDgyMmQ2",
@@ -1476,7 +1878,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-FEB-20/1",
       "datetime": "2013-02-20 10:31:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000440&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YWU5MmU3YWMtOWYzMC00MDQ3LWJmY2QtMzhkZGEzZGMzNDBj",
@@ -1487,7 +1890,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-MAR-13/1",
       "datetime": "2013-03-13 10:33:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000450&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=Yjk4YjE0NGItMmM1Ny00NGEzLTg1NzItMjA1OTdlYWU3ZTEz",
@@ -1498,7 +1902,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-MAR-20/1",
       "datetime": "2013-03-20 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000460&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=M2ZhNGJjMGMtNzEyYi00M2NmLTg2NDEtNmZiZTFiZTMyMDgy",
@@ -1509,7 +1914,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-ABR-17/1",
       "datetime": "2013-04-17 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000470&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NWJlNTFjOGQtYmY5Zi00MDdmLTljYmYtOGJkYzA3OWM2ZDQw",
@@ -1520,7 +1926,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-ABR-24/1",
       "datetime": "2013-04-24 10:31:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000480&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTRlY2I1N2ItNDQ5OS00MjIyLWFlM2QtYTNkMDM3NDFkYjkw",
@@ -1531,7 +1938,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-MAI-08/1",
       "datetime": "2013-05-08 10:33:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000490&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NjQ2NTZlOGUtYjE2YS00ZGY0LTkwYjUtZGY2NzQ0MWVkOWFm",
@@ -1542,7 +1950,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-MAI-15/1",
       "datetime": "2013-05-15 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000500&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OTNmYTNlZGYtZDkzMi00MmJjLWFhMjYtZTA5ZjM0OTcxZWIx",
@@ -1553,7 +1962,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-MAI-22/1",
       "datetime": "2013-05-22 10:31:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000510&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OTU3YjljZjgtODk1MC00NTI0LThhMmYtZTE5YzUwZDUzNjkz",
@@ -1564,7 +1974,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-JUN-05/1",
       "datetime": "2013-06-05 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000520&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MjNkOGI4ZGEtNzYxMi00N2U5LTljYjUtYWJlMmZiZjM2Mzc3",
@@ -1575,7 +1986,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-JUN-12/1",
       "datetime": "2013-06-12 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000530&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NzhiY2ZjYjMtOGZkNS00ZTQxLTg4ZjItZmIyY2QxZmUwNGEw",
@@ -1586,7 +1998,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-JUN-26/1",
       "datetime": "2013-06-26 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000540&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OWU1MmNjNTAtOGE5Yy00ODY5LWI0MDAtODQ2NTZiOWFmYWIw",
@@ -1597,7 +2010,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-JUL-24/1",
       "datetime": "2013-07-24 10:04:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000550&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzU4NDFmNDAtNGRiYS00MzQ3LWJhODctYTU0ZTliMTE5MjEx",
@@ -1608,7 +2022,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-SET-24/1",
       "datetime": "2013-09-24 10:31:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000560&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NzdmOTVkNmMtYWViNC00YTY4LWFkYWYtMTUxNzcyMDU0Nzg5",
@@ -1619,7 +2034,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-OCT-02/1",
       "datetime": "2013-10-02 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000570&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NDQyYTdkY2ItOTgxZS00NWM2LThhOWUtZmYwMmYyNWNhNDdj",
@@ -1630,7 +2046,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-OCT-16/1",
       "datetime": "2013-10-16 10:33:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000580&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=Y2Y0MGRkMzItZTUzMy00OWI3LThkNjctZTM4Y2Y2MzQ2MjA3",
@@ -1641,7 +2058,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-OCT-23/1",
       "datetime": "2013-10-23 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000590&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YmJiZjc2OWEtOThkMi00OWVhLWE1YTUtOTU3N2EzZGU3OTQ5",
@@ -1652,7 +2070,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-NOV-13/1",
       "datetime": "2013-11-13 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000600&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NWM4NTBiZTMtNTFiZC00YjUzLTllZmItMjhlZTJkZmMxMDcz",
@@ -1663,7 +2082,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-NOV-19/1",
       "datetime": "2013-11-19 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000610&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZDY5OWEzM2MtMmYyYS00YzZhLWE4ZTQtODBjZDkyNTkwN2Q0",
@@ -1674,7 +2094,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-NOV-19/2",
       "datetime": "2013-11-19 13:08:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000620&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDgwMGU3MmEtZjQyZC00Mjk4LTg5MmYtMGZmNGNmNmRkNWIw",
@@ -1685,7 +2106,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-NOV-21/1",
       "datetime": "2013-11-21 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000630&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MWJiOGI0OTAtYTBkMy00MzkwLWFjNzEtZmM2MjljYTk3OTVi",
@@ -1696,7 +2118,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-NOV-27/1",
       "datetime": "2013-11-27 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000640&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZTg5NWNjNDAtYjI0MC00MWNmLWEyNzAtZDViMjQ0NzNlMWMz",
@@ -1707,7 +2130,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2013-DES-17/1",
       "datetime": "2013-12-17 10:06:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000650&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NDkzZmM2YjAtMTUxNi00YTVlLTliOWQtYWZmOWQzMTI0YzZl",
@@ -1718,7 +2142,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-FEB-19/1",
       "datetime": "2014-02-19 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000660&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MmQxZjdiMTUtYmZhOS00OGZhLWI5NWItYTkyZmU4ZTExODA4",
@@ -1729,7 +2154,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-MAR-05/1",
       "datetime": "2014-03-05 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000670&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzU5ZTM3ZTEtOGY3Ni00MTgxLThlMmYtMGM0MTNlZWJjOTgz",
@@ -1740,7 +2166,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-MAR-06/1",
       "datetime": "2014-03-06 12:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000680&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YWU1ZDg2MzEtYzQ1NC00ZDJlLWFmZTQtMWYxNzE4Y2ZhMjcw",
@@ -1751,7 +2178,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-MAR-12/1",
       "datetime": "2014-03-12 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000690&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NDI2NzZkNWYtODNjZS00YjFhLTk0MTAtMWIyNmIxNjVmY2Q0",
@@ -1762,7 +2190,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-ABR-02/1",
       "datetime": "2014-04-02 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000700&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZjcxMzBmZDktNWE0NS00YjdhLWI5ODMtMWM1ZGIzYzk4MmI2",
@@ -1773,7 +2202,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-ABR-09/1",
       "datetime": "2014-04-09 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000710&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZjBhNzdlNGUtMWZjNi00ZjEwLThmYWEtM2Y2YTUxMjY1NzI3",
@@ -1784,7 +2214,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-MAY-07/1",
       "datetime": "2014-05-07 10:33:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000720&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ODMwMzIwMjUtN2IxMi00OGI5LTgwNWItN2UyMjVlOTExOTNm",
@@ -1795,7 +2226,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-MAY-28/1",
       "datetime": "2014-05-28 10:31:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000730&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjcxOTUxMGYtYTNiMi00Y2JlLTk3MjgtOWQxZGIzNmFjNTZl",
@@ -1806,7 +2238,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-JUN-04/1",
       "datetime": "2014-06-04 10:31:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000740&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTU2ZjAwZDQtN2Q2ZC00ZjcyLTljZTctNDFhMzI2MzU2OTM3",
@@ -1817,7 +2250,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-JUN-11/2",
       "datetime": "2014-06-11 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000750&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjdlMDgyYzUtOWJkZS00MGM1LWFlMjktM2MzZWQzNTUyMDU1",
@@ -1828,7 +2262,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-JUL-03/1",
       "datetime": "2014-07-03 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000760&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZWFlOTc2NGItZTkxMi00ZGM5LWI0N2UtNjdjMzNiMTYyMjJl",
@@ -1839,7 +2274,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-JUL-17/1",
       "datetime": "2014-07-17 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000770&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZTdhM2MxZDItYWVkOS00OGU2LWEzNDAtYTI2NzBkYTJmNmQz",
@@ -1850,7 +2286,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-SEP-23/1",
       "datetime": "2014-09-23 10:33:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000780&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YTkwZDgwNjctZDBlMy00ZjRlLTllOTUtNTZjYTA2ZDA3MTE2",
@@ -1861,7 +2298,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-SEP-25/1",
       "datetime": "2014-09-25 10:04:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000790&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NDQxZTFkODktYzZmNi00Y2NmLWEzYmEtN2Y3MzI3YjZiMTFi",
@@ -1872,7 +2310,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-OCT-01/1",
       "datetime": "2014-10-01 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000800&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=Yjc4Yjg2NjYtNzk1Yi00MTk4LTkyYjQtNzkzNDkzYTczZjA0",
@@ -1883,7 +2322,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-OCT-15/1",
       "datetime": "2014-10-15 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000810&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MmE4ZDE0N2YtODNjNi00ZTg1LWJkNTEtMTBkMWUzNTllYmUy",
@@ -1894,7 +2334,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-OCT-22/1",
       "datetime": "2014-10-22 10:31:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000820&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OWY4ZTlmZjQtYmUwMy00NDFjLTk4MmMtODcxMGFhZjg3MDQy",
@@ -1905,7 +2346,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-NOV-12/1",
       "datetime": "2014-11-12 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000830&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NDU0Mzg4ZDAtNDVhYy00ZGJjLWI2N2ItNjg4NDM2ZTE5OWU5",
@@ -1916,7 +2358,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-NOV-18/1",
       "datetime": "2014-11-18 10:25:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000840&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZjQxYTIzOGQtMzljYi00MjE2LTk3MjYtNWIyZmUxN2UyYzQ5",
@@ -1927,7 +2370,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-NOV-20/1",
       "datetime": "2014-11-20 10:33:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000850&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=N2IxNDQ4ZWItNTRiZC00MzVjLWE1OTUtNGJjZDQ3OTk0ZWFm",
@@ -1938,7 +2382,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-NOV-26/1",
       "datetime": "2014-11-26 10:33:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000860&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=M2U2MmE3NzAtZjA1ZC00NzY2LWFmMmQtNzJlOTg5NGUzMjA0",
@@ -1949,7 +2394,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2014-DIC-16/1",
       "datetime": "2014-12-16 10:03:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000870&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ODMwOGE1YmUtNTIxMS00ZGVlLTlkZDctMTRiMzQ3OWJjZDA5",
@@ -1960,7 +2406,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2015-GEN-14/1",
       "datetime": "2015-01-14 10:30:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000880&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NWI1ZDliNDgtNmFmZi00ODliLThkYzUtZWY2N2U4NzA4MGQ2",
@@ -1971,7 +2418,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2015-ENE-28/1",
       "datetime": "2015-01-28 10:31:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000890&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OGZjMjkyYTMtZDI1ZC00ODM4LWFhMjAtZjc5OTk1OTU2ZTkw",
@@ -1982,7 +2430,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2015-FEB-04/1",
       "datetime": "2015-02-04 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000900&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MGFhMjJmZjEtNDA4NS00MTQ2LTliZGUtODY0YmU3NTI1NDFm",
@@ -1993,7 +2442,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2015-FEB-18/1",
       "datetime": "2015-02-18 10:31:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000910&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=M2NmMWY2MjQtNmNlMC00MGE4LWI0ZGEtYjExMjY2MTdjODBi",
@@ -2004,7 +2454,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2015-FEB-25/1",
       "datetime": "2015-02-25 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000920&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YTBmZjlmMGYtZTRlYi00NDJiLWE1YTAtN2ZiZjBiMTBlMzg2",
@@ -2015,7 +2466,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VIII/2015-MAR-24/1",
       "datetime": "2015-03-24 10:02:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000930&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2011-11-21 13:06:00"
     }
   ],
   "9a Legislatura": [
@@ -2028,7 +2480,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2015-JUN-11/1",
       "datetime": "2015-06-11 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000010&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000010&idioma=ca_VA"
+      ],
+      "diari_datetime": "2015-06-25 10:04:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZmE1ZTNjNWEtODQxMi00Mjk2LWIyMTQtNDhlMjgwMTExMTg2",
@@ -2039,7 +2494,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2015-JUN-25/1",
       "datetime": "2015-06-25 10:04:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000020&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000020&idioma=ca_VA"
+      ],
+      "diari_datetime": "2015-06-28 11:16:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzI4NmM3MGUtYTE3ZC00NzRiLWIwZjUtODliZWVjNTg0OTQ0",
@@ -2050,7 +2508,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2015-JUN-28/1",
       "datetime": "2015-06-28 11:16:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000030&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000030&idioma=ca_VA"
+      ],
+      "diari_datetime": "2015-07-03 10:35:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzNhOTE2MDQtMjZkYS00NWE0LWEzOTctMzAwYTZlMDBhN2E0",
@@ -2061,7 +2522,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2015-JUL-03/1",
       "datetime": "2015-07-03 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000040&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000040&idioma=ca_VA"
+      ],
+      "diari_datetime": "2015-07-22 10:34:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NTkzN2ZmMmYtNGJlMi00YjcwLWI2MTQtZTgyOTU5ZmNkZTQw",
@@ -2072,7 +2536,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2015-JUL-22/1",
       "datetime": "2015-07-22 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000050&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000050&idioma=ca_VA"
+      ],
+      "diari_datetime": "2015-07-22 11:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NGVlNDFmNTgtZDVmNC00OGI0LWE5OGItZDY2NjUwNWRkNjMx",
@@ -2083,7 +2550,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2015-JUL-22/2",
       "datetime": "2015-07-22 11:41:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000060&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000060&idioma=ca_VA"
+      ],
+      "diari_datetime": "2015-09-09 10:34:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjlmNTdiYjMtNDFhNC00ZTcxLWFlYzAtODVjMWM3NGY4YjJm",
@@ -2094,7 +2564,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2015-SET-09/1",
       "datetime": "2015-09-09 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000070&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000070&idioma=ca_VA"
+      ],
+      "diari_datetime": "2015-09-17 10:34:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZDUyNDg3YzYtODMwZC00MTU0LTk4NjAtODhiNDU3MTA4Yjll",
@@ -2105,7 +2578,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2015-SET-17/1",
       "datetime": "2015-09-17 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000080&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000080&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000090&idioma=ca_VA"
+      ],
+      "diari_datetime": "2015-09-23 10:32:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NGU0NTA4NWMtZDU1Ny00N2VmLTkzOWYtZDEzNjBiMWY0MDcx",
@@ -2116,7 +2593,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2015-SET-23/1",
       "datetime": "2015-09-23 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000090&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000100&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000110&idioma=ca_VA"
+      ],
+      "diari_datetime": "2015-10-06 12:03:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZWNlNGUzOWUtZmFiZS00OGNiLTgwZWEtNDg4Yjg2NmQxNjE2",
@@ -2127,7 +2608,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2015-OCT-06/1",
       "datetime": "2015-10-06 12:03:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000100&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000120&idioma=ca_VA"
+      ],
+      "diari_datetime": "2015-10-14 10:32:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NTQxZGViNWUtN2I0MC00Y2Y5LTlhNzQtNDg3NTU5YTAyNGVh",
@@ -2138,7 +2622,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2015-OCT-14/1",
       "datetime": "2015-10-14 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000110&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000130&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000140&idioma=ca_VA"
+      ],
+      "diari_datetime": "2015-10-21 10:37:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzNjM2QwNDUtMGEyMi00ZTkwLWI2ZTktZmMxYWQwOWM3MDE5",
@@ -2149,7 +2637,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2015-OCT-21/1",
       "datetime": "2015-10-21 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000120&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000150&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000160&idioma=ca_VA"
+      ],
+      "diari_datetime": "2015-10-28 10:39:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NThmNjU3NzYtOTQ5NS00ZDkyLWExMjgtZTg0ZjgxNTM3MDlk",
@@ -2160,7 +2652,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2015-OCT-28/1",
       "datetime": "2015-10-28 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000130&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000170&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000180&idioma=ca_VA"
+      ],
+      "diari_datetime": "2015-11-11 10:36:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZTkwZWY4MjYtYTcyNy00NGQwLWI1OTMtZDg0YjdkY2JmOTgw",
@@ -2171,7 +2667,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2015-NOV-11/1",
       "datetime": "2015-11-11 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000140&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000190&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000200&idioma=ca_VA"
+      ],
+      "diari_datetime": "2015-11-17 10:34:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NWFmNDIzZGUtNTAwNy00ZGI5LWIyY2YtZDkxMTFhYzEzOGI2",
@@ -2182,7 +2682,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2015-NOV-17/1",
       "datetime": "2015-11-17 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000150&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000210&idioma=ca_VA"
+      ],
+      "diari_datetime": "2015-11-18 11:01:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MjA2NTI5MjEtM2E2OC00NzcyLTg0ODItMjAxMWQ2NDEwM2I1",
@@ -2193,7 +2696,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2015-NOV-18/1",
       "datetime": "2015-11-18 11:01:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000160&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000220&idioma=ca_VA"
+      ],
+      "diari_datetime": "2015-11-25 10:37:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=M2IzNmMzNjctOGVmNi00YmZjLThkYTEtNmJkYWE5Y2E5NWI5",
@@ -2204,7 +2710,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2015-NOV-25/1",
       "datetime": "2015-11-25 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000170&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000230&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000240&idioma=ca_VA"
+      ],
+      "diari_datetime": "2015-12-02 10:38:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzFhMGY1OGYtZjNlZi00ZGUxLWIyMGUtOGJkNTY1YzBhMWYy",
@@ -2215,7 +2725,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2015-DIC-02/1",
       "datetime": "2015-12-02 10:38:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000180&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000250&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000260&idioma=ca_VA"
+      ],
+      "diari_datetime": "2015-12-21 12:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MGQzNzcwZjQtYWU4MC00MjRhLTkyOGUtODk1NWM5ZDU1MWY3",
@@ -2226,7 +2740,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2015-DIC-21/1",
       "datetime": "2015-12-21 12:05:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000190&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000270&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000280&idioma=ca_VA"
+      ],
+      "diari_datetime": "2016-01-13 10:38:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NGMyMDM4YmEtZTM3Zi00YzExLTg4NmQtNmNiZWQ5YWUwZDlh",
@@ -2237,7 +2755,11 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-ENE-13/1",
       "datetime": "2016-01-13 10:38:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000200&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000290&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000300&idioma=ca_VA"
+      ],
+      "diari_datetime": "2016-02-10 10:34:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzJmNTczMTAtYTI1My00YmU0LTgxOTQtYzcxZjVmN2U5Nzcy",
@@ -2248,7 +2770,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-FEB-10/1",
       "datetime": "2016-02-10 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000210&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-10 10:34:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OTllN2E1YzktZjZkZi00MjQ2LWIzOGUtOThkN2I2Yzc1NTEx",
@@ -2259,7 +2782,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-FEB-17/1",
       "datetime": "2016-02-17 10:45:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000220&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-10 10:34:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MGUyY2YwYjktOTRmYS00Mjk4LTgyODQtNzIxMWU0YjYwMmJm",
@@ -2270,7 +2794,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-FEB-24/1",
       "datetime": "2016-02-24 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000230&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-10 10:34:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MWNhZmIxNjktYTYxYi00Zjc2LWJhMDEtYmYwMGRjZmFmOTZi",
@@ -2281,7 +2806,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-MAR-09/1",
       "datetime": "2016-03-09 10:38:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000240&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-10 10:34:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NzA0MmYyYTItNWRiOC00Y2M3LWEzNjYtYmQxYjA1YjUzNjg2",
@@ -2292,7 +2818,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-ABR-13/1",
       "datetime": "2016-04-13 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000250&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-10 10:34:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ODA4ZGY4OTctNjU1NC00YTY2LTgxMjktYmY2YjIyYjUxZGZk",
@@ -2303,7 +2830,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-ABR-27/1",
       "datetime": "2016-04-27 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000260&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-10 10:34:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=N2FkYjFhNjItOWI0ZC00MDliLWIzZDMtZDk3NDNkMjY0NzQ0",
@@ -2314,7 +2842,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-MAY-11/1",
       "datetime": "2016-05-11 10:41:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000270&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-10 10:34:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OThhZWFhZDQtZjVmNC00ZjQ4LWI3M2EtMmJmMWM5ZDYzY2U1",
@@ -2325,7 +2854,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-MAY-25/1",
       "datetime": "2016-05-25 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000280&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-10 10:34:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTljY2ZmMmQtYzNjMy00ZTI5LWI2ODktYjMzYjVlMzk0Njc2",
@@ -2336,7 +2866,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-JUN-08/1",
       "datetime": "2016-06-08 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000290&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-10 10:34:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YzI1YzZlYWYtNzliZS00Nzg1LTg5Y2ItNzMwNGRiMTE0N2I2",
@@ -2347,7 +2878,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-JUN-15/1",
       "datetime": "2016-06-15 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000300&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-10 10:34:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NWFlOGE0ZWYtMGMxZi00NDFkLWJmYTUtODQ0YjIwYmVjMzgw",
@@ -2358,7 +2890,10 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-JUN-29/1",
       "datetime": "2016-06-29 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000310&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000310&idioma=ca_VA"
+      ],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YTMzNjdkNmEtY2Q1ZC00ZTlhLTkwMWMtZWNkYzgwOGJhY2Y3",
@@ -2369,7 +2904,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-JUL-06/1",
       "datetime": "2016-07-06 10:33:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000320&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDU2ZThiZDMtNWMwYi00OGI3LWE3MjctNTYwMjk5MWY0OWI4",
@@ -2380,7 +2916,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-JUL-13/1",
       "datetime": "2016-07-13 10:38:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000330&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MjhkYjNiMDgtYjNjNy00N2EzLWJiNzEtMjUwMzdlOWViZWIx",
@@ -2391,7 +2928,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-JUL-27/1",
       "datetime": "2016-07-27 11:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000340&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MjBkM2YyN2UtY2ZhNy00Y2M2LThjOTItYzUwNTI3MGFhNGM2",
@@ -2402,7 +2940,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-SEP-14/1",
       "datetime": "2016-09-14 10:43:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000350&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=N2E5NWFhM2ItMDU3OC00OGFkLWFlYjQtMGFmOWI1NWU5ZTdi",
@@ -2413,7 +2952,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-SEP-21/1",
       "datetime": "2016-09-21 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000360&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZTExOGUyMGUtMjI3My00YmYzLWE3NWUtZDU4MTE3OThjOWY2",
@@ -2424,7 +2964,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-OCT-03/1",
       "datetime": "2016-10-03 12:06:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000370&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YTYzMGViMzUtZTc4Mi00MmQ0LWE1NzUtZTVlMzEzYzE1N2Nh",
@@ -2435,7 +2976,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-OCT-19/1",
       "datetime": "2016-10-19 10:41:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000380&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDdjM2Q1MTMtMDc1NC00MzZlLWJlM2ItNTIyNjVmZjFlNmRl",
@@ -2446,7 +2988,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-OCT-26/1",
       "datetime": "2016-10-26 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000390&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzIyNzYyNmItYjgwYi00YTU3LTlhZDktMDNlMmE3MGViZWZh",
@@ -2457,7 +3000,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-NOV-09/1",
       "datetime": "2016-11-09 10:42:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000400&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ODQ0NTkxY2QtMDZlMy00ZjI1LTlhNzItNWJhZjNjYmUxZjA0",
@@ -2468,7 +3012,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-NOV-15/1",
       "datetime": "2016-11-15 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000410&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MGQyZTVlZmYtODllZS00ZThmLWJkMTYtYjE4YTk4ZTFkYjRi",
@@ -2479,7 +3024,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-NOV-16/1",
       "datetime": "2016-11-16 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000420&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YzczZTAyMjgtYjJiZS00ZTE3LTg5ZWUtNTkzY2Q5ZTk0NDAy",
@@ -2490,7 +3036,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-NOV-30/1",
       "datetime": "2016-11-30 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000430&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=M2ZlZmUyMTctMDdhYi00NzkyLTgyYjgtNWE5NmY2OTY2ZTQ5",
@@ -2501,7 +3048,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2016-DIC-19/1",
       "datetime": "2016-12-19 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000440&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OGYyYjYxYmEtNDU0MS00MDZlLTg1NjQtZWFkMzRiODFjNGU0",
@@ -2512,7 +3060,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-ENE-25/1",
       "datetime": "2017-01-25 10:38:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000450&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NzQ4YzZjZGYtZDNiMS00OGVkLWI3ZGYtODdlNjJiNGE5MmFk",
@@ -2523,7 +3072,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-FEB-08/1",
       "datetime": "2017-02-08 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000460&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDJjMDcyZmUtNjlhOS00Y2VlLTlkNmQtNGM0M2E1NWJlNzFj",
@@ -2534,7 +3084,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-FEB-22/1",
       "datetime": "2017-02-22 10:40:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000470&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YTU3ZjY3NjYtZTJmYS00YjBhLWE1MDEtZDdkNzJlYWRkNjU3",
@@ -2545,7 +3096,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-MAR-08/1",
       "datetime": "2017-03-08 10:07:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000480&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MjZhZjU2OTQtNDFmYS00MTE5LTlmNzMtZDVlNzBiODI1Y2Zh",
@@ -2556,7 +3108,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-MAR-29/1",
       "datetime": "2017-03-29 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000490&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=N2JhMjg2YjUtMGQxMi00NDNmLTgyYjctOWM5NTQ1YTViMTdi",
@@ -2567,7 +3120,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-ABR-04/1",
       "datetime": "2017-04-04 10:10:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000500&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NmE2YTZiNjQtZjhlNy00YzhjLTg0MzUtZTg3YWU2ZGFkOWZh",
@@ -2578,7 +3132,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-ABR-26/1",
       "datetime": "2017-04-26 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000510&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZTM3OWQ4NWUtYTFhYS00NDk3LWFkZWMtOWViNDAyOTI2ODcx",
@@ -2589,7 +3144,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-MAY-10/1",
       "datetime": "2017-05-10 10:33:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000520&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MmRlZWE5ZWQtZDRkMi00YmJlLWE5NzctZDc3OGNkZGQ1MDg3",
@@ -2600,7 +3156,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-MAY-24/1",
       "datetime": "2017-05-24 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000530&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NGRlNTQ0NGQtNjMyZC00NGU1LTg4MTUtNTI5MWRjYzJkNTNl",
@@ -2611,7 +3168,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-JUN-07/1",
       "datetime": "2017-06-07 10:38:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000540&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OGRiNGZmNDYtMGU4ZC00NjkzLTkwNGMtNWVhZDRkMjNmNGRi",
@@ -2622,7 +3180,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-JUN-14/1",
       "datetime": "2017-06-14 10:41:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000550&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NTA2YTI2YzctY2Y2Ni00MjFjLTgyODQtMDc4OWQzZDA5ZThj",
@@ -2633,7 +3192,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-JUL-05/1",
       "datetime": "2017-07-05 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000560&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OTY3MzZjMWUtMzJmNi00OTc0LTg4OWEtZTM3ZDJmNGFmOWMy",
@@ -2644,7 +3204,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-SEP-08/1",
       "datetime": "2017-09-08 12:06:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000570&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MGEwMDJlNzUtYmJmMy00ODY3LWJjNDItZTVlMzViNjEzNDgx",
@@ -2655,7 +3216,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-SEP-13/1",
       "datetime": "2017-09-13 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000580&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDg5OTdhNDAtYzk5Zi00ZDZiLTlkODEtM2ZkYTU3NjAxMDVj",
@@ -2666,7 +3228,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-SEP-27/1",
       "datetime": "2017-09-27 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000590&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NWJlYmZiNmQtODI2ZS00ZWI0LWJhMTUtMzcwOTc2MTk0ZjM0",
@@ -2677,7 +3240,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-OCT-18/1",
       "datetime": "2017-10-18 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000600&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MjRjZjg0MWQtN2EyMy00ODFjLWE3NGQtNGYxYmM1NTIyOTYz",
@@ -2688,7 +3252,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-OCT-25/1",
       "datetime": "2017-10-25 10:39:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000610&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=Mjg2ZjBlNjctMjNkNC00NDg4LWI3YTgtMTJiZWY3OTk5NWQ2",
@@ -2699,7 +3264,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-NOV-16/1",
       "datetime": "2017-11-16 10:07:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000620&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZDFhNzI3YzAtNzcxNi00MGUzLTg5ZTYtNDc0NDU0NTZjNTZk",
@@ -2710,7 +3276,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-NOV-17/1",
       "datetime": "2017-11-17 10:05:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000630&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZTZkOTYzMGYtMmFmNy00N2I5LTk5ZmQtMDhkZjVkZWViYjhk",
@@ -2721,7 +3288,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-NOV-22/1",
       "datetime": "2017-11-22 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000640&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=N2IxMDg4NTctYzlkOC00NjQ0LWJhMWQtNWZmNTdmZWU3YWQ5",
@@ -2732,7 +3300,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-NOV-29/1",
       "datetime": "2017-11-29 10:38:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000650&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MWJhOTcwY2UtMWI5Zi00M2VmLWJmMzUtZDc5MjNjZWM2MDAx",
@@ -2743,7 +3312,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2017-DIC-19/1",
       "datetime": "2017-12-19 10:40:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000660&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjEzODMwZDAtZTEzZC00OTJhLThkNTctYTNiZjczNzljZGEz",
@@ -2754,7 +3324,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2018-ENE-24/1",
       "datetime": "2018-01-24 10:49:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000670&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NzY0Nzg4ZWYtYzAwYy00ZTYyLWE3ZjctMmRkNTFkZTViNjU2",
@@ -2765,7 +3336,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2018-FEB-07/1",
       "datetime": "2018-02-07 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000680&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OTMyMGEzNWUtMTY3ZS00ODIzLWFjODctOGNmYTEwMmQ0NDgz",
@@ -2776,7 +3348,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2018-FEB-14/1",
       "datetime": "2018-02-14 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000690&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NTQwMjk1YjgtOTA2Zi00ODhhLTk4OWQtMWQzYWFiM2ZmZjdi",
@@ -2787,7 +3360,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2018-FEB-21/1",
       "datetime": "2018-02-21 10:39:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000700&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NWQ4NzBjZTAtODg3NS00ODc0LWFhZDEtNjc1ZmU3YzliM2Mz",
@@ -2798,7 +3372,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2018-FEB-28/1",
       "datetime": "2018-02-28 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000710&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MWJlZTZiZWYtYjVhMy00MjU5LTk5MWYtYjU4OTIzYThlMWY2",
@@ -2809,7 +3384,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2018-MAR-07/1",
       "datetime": "2018-03-07 10:06:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000720&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MjY4YTdhMTQtMDMwMS00YjA4LWI3ZDItOWQwYjU1MzNhZTFm",
@@ -2820,7 +3396,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2018-ABR-04/1",
       "datetime": "2018-04-04 10:38:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000730&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZjUyODU2MTktNmY5MS00NTJhLWE3OGEtY2RkNWJmMWYwZTQ2",
@@ -2831,7 +3408,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2018-ABR-18/1",
       "datetime": "2018-04-18 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000740&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MGY0NGYxMjAtN2VhZS00ZTQ1LTg2MWEtYjczYTk2M2U3Y2Vh",
@@ -2842,7 +3420,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2018-MAY-09/1",
       "datetime": "2018-05-09 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000750&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ODE1YTc1MDItOGQxNy00MDlmLTgzYTktZjJhZmJhNzQzODQ0",
@@ -2853,7 +3432,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2018-MAY-23/1",
       "datetime": "2018-05-23 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000760&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YzkwZjYzZTUtMTJlOC00NjZlLWE0MjItYzNkY2ZiYjFiNDY1",
@@ -2864,7 +3444,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2018-JUN-05/1",
       "datetime": "2018-06-05 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000770&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YTY5ZWVlODUtNDdkOC00YTU1LTlhYzYtNjA3NDhhN2ZjOTY5",
@@ -2875,7 +3456,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2018-JUN-13/1",
       "datetime": "2018-06-13 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000780&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MjYwMTU1YmMtMDM5YS00OGM4LTk4OTEtM2EyMGU1MTJhNDU4",
@@ -2886,7 +3468,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2018-JUL-04/1",
       "datetime": "2018-07-04 10:40:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000790&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTliNTI3MmItMWIyYy00MmFhLTk3NGItYzk5Yjg5MDAxNzMy",
@@ -2897,7 +3480,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2018-JUL-18/1",
       "datetime": "2018-07-18 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000800&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MWMyZGQxNDgtYzNmYi00Y2ZlLTgwZWUtNWQ5MTc3ZGNjOGI3",
@@ -2908,7 +3492,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2018-SEP-11/1",
       "datetime": "2018-09-11 10:05:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000810&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZGE2YjQxMDUtYTc1Mi00NWViLWJkMmMtYTA3MTU2MDVkMjEz",
@@ -2919,7 +3504,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2018-SEP-26/1",
       "datetime": "2018-09-26 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000820&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NmVjMGNmYjItNDI2YS00MTQ4LWJjYzUtZDdiZjljYmFhMGJj",
@@ -2929,7 +3515,8 @@
       "Legislatura/Mandato:": "9a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2018-10-17 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000830&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTZiMGE3ZjYtM2I0MS00NWFiLWJkZWEtYzM4Y2ZjNDdhZjJj",
@@ -2940,7 +3527,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2018-OCT-17/1",
       "datetime": "2018-10-17 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000840&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NWZmODA5M2MtODQ1Zi00N2NhLWE5NmQtZDA0ZWY1Y2ZlNjhj",
@@ -2951,7 +3539,8 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-IX/2018-OCT-24/1",
       "datetime": "2018-10-24 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000850&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTVjOTBkNjAtYTE5Yi00MzJlLThjMzgtYjgyN2U0MDdiMDhl",
@@ -2961,7 +3550,8 @@
       "Legislatura/Mandato:": "9a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2018-10-24 13:26:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000860&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=N2IyYTU0YTUtOTdjNS00ZGQxLWI3ODItOTQ5ODcwYWM1Nzc3",
@@ -2971,7 +3561,8 @@
       "Legislatura/Mandato:": "9a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2018-11-15 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000870&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MmYwNzk4NzItYjg5MC00NDNiLThmNjAtODJmNDgzNzBmZTM4",
@@ -2981,7 +3572,8 @@
       "Legislatura/Mandato:": "9a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2018-11-16 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000880&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTM3YzdjNDMtN2E1NS00ODQzLWI5YTMtNDI4M2M3OWIzM2E2",
@@ -2991,7 +3583,8 @@
       "Legislatura/Mandato:": "9a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2018-11-21 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000890&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjhiZmI1MWQtZDFjZC00ZjEyLWIwYTktZTE0NTNiY2ViOTY2",
@@ -3001,7 +3594,8 @@
       "Legislatura/Mandato:": "9a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2018-11-28 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000900&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YzI4NGQxYmMtMjlhYi00MWIxLWFlYjUtNGY1ZTMxOTBhNTkx",
@@ -3011,7 +3605,8 @@
       "Legislatura/Mandato:": "9a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2018-12-19 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000910&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZjQ4ZTVjMWQtMjVjMC00OGIxLTgzYjctZWUwYjEzNjVhOTNm",
@@ -3021,7 +3616,8 @@
       "Legislatura/Mandato:": "9a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-01-16 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000920&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YWZiMzQyMzctYmFlNC00M2EwLTg3ZTctMTk4N2IwZDA0NWYw",
@@ -3031,7 +3627,8 @@
       "Legislatura/Mandato:": "9a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-01-30 10:44:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000930&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MmFmOGE0MzgtY2Y3MS00ODMyLWEyMTktNDcxMmIzN2IzMzAw",
@@ -3041,7 +3638,8 @@
       "Legislatura/Mandato:": "9a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-02-13 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000940&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjMzNDBkOTEtN2JmYi00ZGQ3LTkwNWItOTk5N2MxMGFmODcw",
@@ -3051,7 +3649,8 @@
       "Legislatura/Mandato:": "9a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-02-27 10:45:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=IX  000950&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2016-02-11 10:05:00"
     }
   ],
   "10 a Legislatura": [
@@ -3063,7 +3662,10 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-05-16 10:39:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000010&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000010&idioma=ca_VA"
+      ],
+      "diari_datetime": "2019-06-12 10:10:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=Y2M5OGE3OGEtYWY2Yy00YWY0LWJkZDItZGY5Mzg1MjQ1MWM2",
@@ -3073,7 +3675,11 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-06-12 10:10:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000020&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000020&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000030&idioma=ca_VA"
+      ],
+      "diari_datetime": "2019-06-16 12:12:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NDg0YzQ5YzEtMDgyNS00M2Q4LTk0ZmEtZmE3OWUxNjcyOTRl",
@@ -3083,7 +3689,10 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-06-16 12:12:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000030&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000040&idioma=ca_VA"
+      ],
+      "diari_datetime": "2019-06-26 11:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTI3ODkzNzAtYTA3ZS00ZGNiLTg5YmQtMGZmNjc2NzIyMWEw",
@@ -3093,7 +3702,10 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-06-26 11:06:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000040&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000050&idioma=ca_VA"
+      ],
+      "diari_datetime": "2019-09-11 10:35:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YTZkNTVjZWQtMzhmZS00N2ZhLTkxN2UtNjIxYzg0MDQzOGU0",
@@ -3103,7 +3715,11 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-09-11 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000050&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000060&idioma=ca_VA",
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000070&idioma=ca_VA"
+      ],
+      "diari_datetime": "2019-09-18 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OWU1OWY4MmYtY2UzOC00NjFhLTk3MjctNTA5Y2MzZDVhNTU3",
@@ -3113,7 +3729,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-09-18 10:05:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000060&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-18 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YmQ2MmVjNTctMmMyYy00YjIwLWFiZmEtYWZkZTMzNmZjN2Fl",
@@ -3123,7 +3740,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-09-25 10:38:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000070&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-18 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OGUwMTc0OTUtYmM2NC00ZTY3LTlkMWYtOTdhZDdjNTM4MmNi",
@@ -3133,7 +3751,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-10-16 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000080&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-18 10:05:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZTM1NWVhNmEtZWU0NC00NWMzLThlNzktMGQ3NjQ5ZmYzODZm",
@@ -3143,7 +3762,10 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-10-23 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000090&idioma=ca_VA"
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000080&idioma=ca_VA"
+      ],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NWQyYzZiNzUtMjE0Mi00ZjU2LTk1YTctZTg3NTBkY2NhZjQ0",
@@ -3153,7 +3775,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-11-15 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000100&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NDMxNWU4YTYtZmJiZi00MTJlLWEzYzgtYjE0Yjc1MjNjYTVk",
@@ -3163,7 +3786,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-11-18 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000110&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDc4NjIxZTQtY2FmNS00YmFjLWE1Y2MtYzFiYWY5ZDgxNzJk",
@@ -3173,7 +3797,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-11-27 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000120&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZmI3ZmI3MGEtZTZhNS00Yzg4LTkxNjItNzBkZDM2ZmE2Yjlh",
@@ -3183,7 +3808,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-12-18 10:42:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000130&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzQzYThlOGUtNmMzNi00NTczLTg4MjAtMjk5MTk4NTVjODNm",
@@ -3193,7 +3819,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-12-18 16:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000140&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=Mzc5M2ZhODQtNTJmZC00ZTVjLTk1ZGUtMGE1NzkzZmRkOGY0",
@@ -3203,7 +3830,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-12-19 10:07:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000150&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDQ5MjliNzMtNGUyNS00OTJkLWExZTgtM2Q3Mzc2ZTUzMjY1",
@@ -3213,7 +3841,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-12-19 16:03:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000160&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NTVlNDlhMmEtM2ZmOC00MWFhLWI2NTQtZTRhNGYzNWFlOWU5",
@@ -3223,7 +3852,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-02-05 10:38:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000170&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YzhmNTRlNzktOGQ2My00YzE5LWJhMTgtNjdlMzA0MDcyMjVk",
@@ -3233,7 +3863,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-02-05 16:02:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000180&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=Nzc4NWEzNDgtZDAwNi00N2NhLTk5YWQtOGIyYmUwNTdjZGQ1",
@@ -3243,7 +3874,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-02-06 10:16:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000190&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ODczYjk1NjMtYTdhNi00ZmFmLTg4YmItNzQ0OTliYTY1MWZk",
@@ -3253,7 +3885,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-02-19 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000200&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZGM5ZDYzYTAtNGZiOC00YzEyLTkwODgtN2Q5NTFmYzkyZjM3",
@@ -3263,7 +3896,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-03-04 10:40:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000210&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OTc5MzA5ZTAtZDdkZi00YjdiLTkwOGYtZWZjNDU0NTdmMGQx",
@@ -3273,7 +3907,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-03-12 10:38:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000220&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=N2ZkM2MwODYtYTY0Yy00YWZlLTk2YTEtODI0M2E3MWM1ZTMx",
@@ -3283,7 +3918,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-05-25 10:08:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000230&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YmEyYjE0ODEtYjNhYy00MGMzLTgxNzgtNzllMTYwNjEyZjgw",
@@ -3293,7 +3929,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-05-27 10:07:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000240&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NDczMGUwZjctYjBhYy00NTBlLTg2NzgtMDc1M2M1OTc3ZTYw",
@@ -3303,7 +3940,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-05-28 10:05:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000250&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MjBmZmJkMjUtMzNjMy00ZTJjLWIzNzEtYzNkMTNlYzdiMzJh",
@@ -3313,7 +3951,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-06-15 10:05:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000260&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NTBlMTk5ZGMtZDVlOC00NGY2LWFhYzMtZDY2Nzg5YzljZTli",
@@ -3323,7 +3962,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-06-16 10:03:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000270&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZmVmZTY0OTgtYjkzMy00YTc5LTk0YzQtMGY5N2I3MWFlN2Rh",
@@ -3333,7 +3973,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-06-18 10:08:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000280&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MjkwN2FhNmEtODNiZS00NzczLThiYzQtZmY1ZjQzM2M2MDQx",
@@ -3343,7 +3984,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-07-15 10:03:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000290&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NzU1N2VkZmMtZDM0NC00OTU5LTliMGItMjg1MzdhZTc3ZTgz",
@@ -3353,7 +3995,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-07-21 10:07:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000300&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NDQ5Y2EyMDEtNzhmYi00M2Y5LTk0ODgtYWE2YWNlNmNlOTdi",
@@ -3363,7 +4006,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-07-21 16:04:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000310&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NjFmM2QzNDYtNTc4Mi00ZGI3LWFhNjAtOGYxNWYzMWFmM2Y1",
@@ -3373,7 +4017,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-07-23 10:07:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000320&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZGI0MjIwMzAtNWM3Yy00YzA2LWExOGEtMmZhZjU1OTE1YmE5",
@@ -3383,7 +4028,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-08-04 10:03:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000330&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MjRjZTRjNTMtOTI2Ni00NjU4LWI0NjktMDZkMGM1YjlmYjJj",
@@ -3393,7 +4039,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-08-04 16:38:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000340&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZDBjZjI3MTQtNjEwZS00MTM1LWFjMTUtZDI2Nzg4OGI3OTc0",
@@ -3403,7 +4050,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-08-06 10:04:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000350&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzY4NTU2YTktMzkxNi00YjYyLWE4NmMtMGFlMWYyYjJjNWU2",
@@ -3413,7 +4061,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-09-21 12:09:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000360&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ODg0ZWRmNWEtYzhlZS00YTQ2LWJkYmQtMThhZTA1MmM1OGQ1",
@@ -3423,7 +4072,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-09-21 16:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000370&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjA4Mzk2NjAtMjViMy00OWUwLTg4NDQtOWQ5Y2Y1YjFjMDBl",
@@ -3433,7 +4083,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-09-23 10:07:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000380&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NDM5ZWU1NjItMzU3MS00ODc5LThhZjgtNTc5ZjQzNmRjZjNk",
@@ -3443,7 +4094,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-09-23 16:01:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000390&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NDVlN2U4ODEtODAwMi00YmViLWI0NjgtYzAyNGVjYTZkMGY0",
@@ -3453,7 +4105,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-09-25 10:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000400&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZjBiMTFhOGYtYjRlYS00ZjNiLWE1YzctNzE0NmFjMTMwNjlk",
@@ -3463,7 +4116,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-09-29 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000410&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YTIyN2RlMzAtMTcxMy00NjIxLWJlZTYtMTlhZGFlOTRlNGNm",
@@ -3473,7 +4127,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-09-29 16:07:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000420&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OTQ0NzNhOTMtMmQwYS00OTUwLWE0MzQtY2YxMWMyM2I0YWM4",
@@ -3483,7 +4138,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-10-01 10:07:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000430&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YzM2MDg1MDYtYjc0MS00NmJjLTlkOWYtZjY4MjNiY2I4NTYz",
@@ -3493,7 +4149,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-10-14 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000440&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OGZlYzAxNGQtZmY0Yy00MzExLWIxN2ItOWUwZmVlOTNhNDNj",
@@ -3503,7 +4160,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-10-14 16:31:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000450&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NWFjNGFlZmYtNzk4Mi00NjA1LTgwMDAtNjM0YTlhZjFjMTQ4",
@@ -3513,7 +4171,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-10-15 10:05:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000460&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZjExMTRhNTMtYTNjYi00NjBmLWJkYTctNjRjYTFhYjNjYmE1",
@@ -3523,7 +4182,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-10-28 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000470&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjAyN2Y3YTItZjExMS00YzNmLWIzZWEtZTY3MmMzYjlkZjgy",
@@ -3533,7 +4193,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-10-28 15:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000480&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=Mzc2ZjRmMmUtYzY5NC00ZjJkLWI5YjYtNzIxYWM0ODE0ZGY2",
@@ -3543,7 +4204,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-10-29 10:05:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000490&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZjdjNjE3ODEtNmVlMi00YmMwLWI5ZTUtNjJhMDNhMzFhYjQ0",
@@ -3553,7 +4215,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-11-17 10:41:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000500&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MjliNmVmMWUtYWNkZC00ODY1LWJlYjItNTI2MjIxOTJmYzRi",
@@ -3563,7 +4226,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-11-19 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000510&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NmUzNDI0NzMtYTJlZS00ZWE1LTllMGUtZTE0OTliZmVlN2Zm",
@@ -3573,7 +4237,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-11-25 10:39:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000520&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YTNmZWZiMzItN2JlZi00YzFiLTg3NWUtZmQ5ZTZiYjY4OGZk",
@@ -3583,7 +4248,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-11-25 16:04:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000530&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=N2QzODM2NzAtNjI3Ni00YTQ2LWJhYjEtMjBmN2JhNTExNTVl",
@@ -3593,7 +4259,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-11-26 10:05:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000540&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTlkNjRkODgtNTVmMy00ODQ2LTgxMzktOTgzODMxOWEzYWQ4",
@@ -3603,7 +4270,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-12-21 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000550&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NGI4MGQwNTAtZWRkMS00YTgxLWIxNDktZTZmYjNlMjA2NGZj",
@@ -3613,7 +4281,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-12-21 16:05:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000560&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=N2E4MGRmNDUtMDVhMy00NmUzLWJkZTgtYmQ0OTk1ZTFiNzYx",
@@ -3623,7 +4292,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-12-22 10:06:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000570&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=Y2MxZjQzNTEtNGYzMS00MmE0LTgyNDMtYTAwZGRmNzYxNDY0",
@@ -3633,7 +4303,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-12-22 16:29:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000580&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjM5OTBjZTYtM2M1MC00NGY5LWI2NDktOGVkYjBjOWMzMGU2",
@@ -3643,7 +4314,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-12-23 16:08:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000590&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDRjOTE3MTktMGYwOS00MWNlLWFhMGYtMjgyZGVlNWNmNDVk",
@@ -3653,7 +4325,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-02-10 10:38:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000600&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzhjYmI1MDctZmU0MC00MWQ1LThlY2MtODIwNGVjMjFlNjQw",
@@ -3663,7 +4336,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-02-11 10:03:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000610&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZDJmZjgwY2YtMWZiMC00MDAwLWE5ZDAtOTI5OTEwN2IyODU1",
@@ -3673,7 +4347,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-02-24 10:39:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000620&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=M2U4YTE5ZDYtMDc5NS00MWRlLWFjNGYtNjJiNTE5YzQxNWYx",
@@ -3683,7 +4358,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-02-25 10:05:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000630&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YTZmNDVkZDAtOTIyYS00NDU4LWFkYzMtYzE5MzQ4MDg1MzJh",
@@ -3693,7 +4369,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-03-10 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000640&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NzQ3NWUxNWQtMTExZi00NmMxLWE1MzMtMDY2M2NkZDVlM2Ni",
@@ -3703,7 +4380,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-03-11 10:05:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000650&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NzJmMDBlNGMtYzMyNi00NTE4LWFjMzQtODVjYThhNmE4ZmM0",
@@ -3713,7 +4391,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-03-11 14:02:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000660&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTU5NWMwYTctYjFhNy00NzRlLWI5MmEtZTRlYTkyYTkyMzA4",
@@ -3723,7 +4402,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-03-11 16:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000670&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTI2ZGEyMzItNzA2NC00MGI2LTljNDUtZjUzOGMwNjRjYzkx",
@@ -3733,7 +4413,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-03-24 09:35:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000680&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZGQ5OWQ1ZWMtN2U4Yi00MDAzLTlmYzYtNTc3NDdmYTdmYTNh",
@@ -3743,7 +4424,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-03-25 10:06:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000690&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzNmZjhhOTAtMmRkZS00OTVhLWEzZjQtMWIwZWJlNmExMmVl",
@@ -3753,7 +4435,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-04-21 10:31:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000700&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZDI0ZjJiN2ItZjA3Yi00ZGQxLTg0MzYtYjBkM2YwNjE0Zjgw",
@@ -3763,7 +4446,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-04-22 10:05:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000710&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ODU5NmQ5NGMtNWQ4Zi00OGNlLWFlYjMtNjAzZGQ2MTJkMDE3",
@@ -3773,7 +4457,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-04-28 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000720&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YzE3ODgzZGMtMDczYy00YWIzLTgxOGMtY2M5M2QxODcwYWNi",
@@ -3783,7 +4468,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-04-29 10:04:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000730&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzU4YWJjMmQtNDlhNC00NmUwLWI5OWYtZmU3MGIyOGQxMDdl",
@@ -3793,7 +4479,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-05-05 10:34:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000740&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NjY0OWMzODAtZjVlOS00MWIzLTk3NGItYWM0ZTc0OTIyNWQ2",
@@ -3803,7 +4490,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-05-06 10:03:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000750&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OTgwY2U4ODQtNTEzZS00YzIzLTgzM2MtNTk2ODMzMWFjNzM4",
@@ -3813,7 +4501,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-05-19 10:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000760&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NjkwNDkwNmItNTJiNS00YjY1LWI1YWYtZDIxZWMxN2NiYmI2",
@@ -3823,7 +4512,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-05-20 10:06:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000770&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjBjYzU0ZGEtZWQyZi00OGVlLTg3MTgtMzRiYjI2N2RkZmEy",
@@ -3833,7 +4523,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-05-26 10:51:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000780&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDI5ZGZmNWMtNDU1YS00NWY5LTk2ZjItYjM3MmEyMDM4OGNl",
@@ -3843,7 +4534,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-05-27 10:04:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000790&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDYxMDllNGItMjE1Ni00MDUzLWEwNzEtN2IwMjYyMDgyZmU4",
@@ -3853,7 +4545,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-06-09 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000800&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZDcyYjRhNmEtMjQ3My00NTE3LWI1OTEtOTM5NDNhZmFiN2Fh",
@@ -3863,7 +4556,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-06-10 10:06:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000810&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZDZmOWM5NzgtNjViMS00NWI3LTg0ZTUtMWE0ZDgzMTAwYzYw",
@@ -3873,7 +4567,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-06-16 10:32:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000820&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NzNiYzAwYzEtYmVjZi00NmRhLTlmMTEtMWQ5NDNlZTZjMTUz",
@@ -3883,7 +4578,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-06-17 10:07:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000830&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OTM0ODY5ZTMtNDYyMi00ZjY1LWFhYzMtMmI0MDY0YTk5ZjM3",
@@ -3893,7 +4589,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-07-07 10:38:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000840&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OGM5NjM1ZGEtNmJhMS00ODMxLTljN2MtYzI2ZTYyMWM0OTMx",
@@ -3903,7 +4600,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-07-08 10:03:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000850&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MmM0ZDAzZWMtNDM5Mi00ZTFlLWE2YzQtNWMyYmNhZDIwYzQz",
@@ -3913,7 +4611,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-07-22 10:10:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000860&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NWE3MGY3MmItZWEwMS00YWRlLTlkMjYtOTQ5NGU2MmRiYWVj",
@@ -3923,7 +4622,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-09-27 10:07:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000870&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YWVlYjYxOGUtZTJhMy00MTcyLWExY2EtZDNkYjYzNDc5MzNm",
@@ -3933,7 +4633,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-09-27 15:37:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000880&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ODA5OWQ0ZTQtYTgyOS00YjU1LTg5YWUtZjcwNDhlZWM2MGI1",
@@ -3943,7 +4644,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-09-29 10:06:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000890&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NjJhYzNiZjMtZjM5MC00MDRlLTk1MTctMzJiODM3ZGJjODA0",
@@ -3953,7 +4655,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-10-20 10:36:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000900&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZWRmMTEwNDUtMTNkNC00MTc1LWE5ODgtMDI3Y2VlYTdjYzkw",
@@ -3963,7 +4666,8 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-10-21 10:00:00",
-      "diari_url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000910&idioma=ca_VA"
+      "diari_urls": [],
+      "diari_datetime": "2019-09-19 10:07:00"
     }
   ]
 }
