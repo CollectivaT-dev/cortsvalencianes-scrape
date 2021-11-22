@@ -78,7 +78,7 @@ def find_urls(key, no, session):
     diari_url = generate_urls(key, no, session)
     diari_date, diari_sessio = parse_diari(diari_url)
     if part == 0:
-        while diari_sessio == current_sessio and diari_date != None:
+        while diari_sessio in current_sessio and diari_date != None:
             diari_urls.append(diari_url)
             no += 1
             diari_url = generate_urls(key, no, session)
@@ -100,10 +100,20 @@ def parse_metadata_sessio(title):
     title_clean = re.sub('\([^)]*\)','', title).replace('  ',' ')
     result = re.search('Sessió (\d+) Ple', title_clean)
     part = 0
+    sessio_2 = None
     if not result:
+        # check if sessio is in two parts
         result = re.search('Sessió (\d+)-(\d) Ple', title_clean)
-        part = int(result.groups()[1])
-    return int(result.groups()[0]), part
+        if result:
+            part = int(result.groups()[1])
+        else:
+            # check if the day has two sessions
+            result = re.search('Sessió (\d+) i (\d+) Ple', title_clean)
+            sessio_2 = [int(result.groups()[1])]
+    sessions = [int(result.groups()[0])]
+    if sessio_2:
+        sessions + sessio_2
+    return sessions, part
 
 def generate_urls(key, no, session):
     roman = {'1':'I', '3':'III', '7':'VII', '8':'VIII', '9':'IX', '10':'X'}
