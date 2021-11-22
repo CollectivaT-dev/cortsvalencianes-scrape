@@ -1,5 +1,6 @@
 import json
 import re
+import os
 import requests
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup as bs4
@@ -18,6 +19,10 @@ MONTH = {"gener":  1,
         "octubre":  10,
         "novembre": 11,
         "desembre": 12}
+if os.path.isfile('cache.json'):
+    with open('cache.json') as cache:
+       CACHE = json.load(cache)
+INITIAL_LEN = len(CACHE.keys())
 
 def main():
     pages = json.load(open('items.json'))
@@ -49,35 +54,56 @@ def generate(legs):
         print(legislature)
         doc_no = 0
         for i, session in enumerate(sessions_sorted):
-            next_session = sessions_sorted[i+1]
+            #next_session = sessions_sorted[i+1]
+            print(session['title'])
             session['diari_urls'], diari_date, doc_no = find_urls(legislature,
                                                                   doc_no,
-                                                                  session,
-                                                                  next_session)
+                                                                  session)
             session['datetime'] = str(session['datetime'])
             session['diari_datetime'] = str(diari_date)
-            print(next_session['title'])
+            cache_length = len(CACHE.keys())
+            if cache_length%10 == 0 and cache_length != INITIAL_LEN:
+                with open('cache.json', 'w') as out:
+                    json.dump(CACHE, out, indent=2)
+        with open('cache.json', 'w') as out:
+            json.dump(CACHE, out, indent=2)
         legs[legislature] = sessions_sorted
 
-def find_urls(key, no, session, next_session):
+def find_urls(key, no, session):
     diari_urls = []
     current_date = session['datetime']
-    current_sessio = int(parse_metadata_sessio(session['title']))
-    next_date =  next_session['datetime']
-    next_sessio = int(parse_metadata_sessio(next_session['title']))
+    current_sessio, part = parse_metadata_sessio(session['title'])
+    #next_date =  next_session['datetime']
+    #next_sessio = int(parse_metadata_sessio(next_session['title']))
     diari_url = generate_urls(key, no, session)
     diari_date, diari_sessio = parse_diari(diari_url)
-    while diari_sessio < next_sessio:
-        diari_urls.append(diari_url)
-        no += 1
-        diari_url = generate_urls(key, no, session)
-        diari_date, diari_sessio = parse_diari(diari_url)
-        print(diari_sessio, 'vs', next_sessio)
+    if part == 0:
+        while diari_sessio == current_sessio and diari_date != None:
+            diari_urls.append(diari_url)
+            no += 1
+            diari_url = generate_urls(key, no, session)
+            diari_date, diari_sessio = parse_diari(diari_url)
+            print(diari_sessio, 'vs', current_sessio)
+    else:
+        print('sessio in multiple parts')
+        while diari_sessio == current_sessio and \
+              diari_date.date() == current_date.date():
+            diari_urls.append(diari_url)
+            no += 1
+            diari_url = generate_urls(key, no, session)
+            diari_date, diari_sessio = parse_diari(diari_url)
+            print(diari_sessio, 'vs', current_sessio)
+            print(diari_date.date(), 'vs', current_date.date())
     return diari_urls, diari_date, no
 
 def parse_metadata_sessio(title):
-    result = re.search('Sessió (\d+) Ple', title)
-    return int(result.groups()[0])
+    title_clean = re.sub('\([^)]*\)','', title).replace('  ',' ')
+    result = re.search('Sessió (\d+) Ple', title_clean)
+    part = 0
+    if not result:
+        result = re.search('Sessió (\d+)-(\d) Ple', title_clean)
+        part = int(result.groups()[1])
+    return int(result.groups()[0]), part
 
 def generate_urls(key, no, session):
     roman = {'1':'I', '3':'III', '7':'VII', '8':'VIII', '9':'IX', '10':'X'}
@@ -88,14 +114,27 @@ def generate_urls(key, no, session):
     return URL%code
 
 def parse_diari(url):
-    res = requests.get(url)
-    print(url)
-    soup = bs4(res.content, 'html.parser')
-    text = soup.findChildren()[0].text[:1000]
-    clean_text = re.sub('’|‘', "'", re.sub('\s\s+',' ',text))
-    date = parse_date(clean_text)
-    sessio = parse_sessio(clean_text)
-    return date, sessio
+    if CACHE.get(url):
+        print('diari cached')
+        date, diari_sessio = CACHE[url]
+        diari_date = datetime.strptime(date, "%Y-%m-%d %H:%M:%S")
+        return diari_date, diari_sessio
+    else:
+        res = requests.get(url)
+        print(url)
+        soup = bs4(res.content, 'html.parser')
+        element = soup.findChildren()
+        if element:
+            text_full = soup.findChildren()[0].text
+            text = text_full[:1000]
+            clean_text = re.sub('’|‘', "'", re.sub('\s\s+',' ',text))
+            date = parse_date(clean_text)
+            sessio = parse_sessio(clean_text)
+            CACHE[url] = (str(date), sessio)
+            return date, sessio
+        else:
+            # reached the end of the diaris
+            return None, None
 
 def parse_date(clean_text):
     # get day
