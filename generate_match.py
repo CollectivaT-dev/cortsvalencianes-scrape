@@ -28,9 +28,9 @@ INITIAL_LEN = len(CACHE.keys())
 def main():
     pages = json.load(open('items.json'))
     legislatures = leg_order(pages)
-    diaris = generate(legislatures)
-    with open('diaris.json', 'w') as out:
-        json.dump(diaris, out, indent=2)
+    generate(legislatures)
+    with open('items_diaries.json', 'w') as out:
+        json.dump(legislatures, out, indent=2)
 
 def leg_order(pages):
     legislatura = {}
@@ -50,37 +50,53 @@ def leg_order(pages):
     return legislatura
 
 def generate(legs):
-    diaris_leg = {}
     for legislature, sessions in legs.items():
-        diaris = []
         sessions_sorted = sorted(sessions, key=lambda x: x['datetime'])
         print(legislature)
         doc_no = 0
-        diari_date = datetime.now()
-        while diari_date != None:
-            diari_date, diari_session, url = find_urls(legislature, doc_no)
+        for i, session in enumerate(sessions_sorted):
+            #next_session = sessions_sorted[i+1]
+            print(session['title'])
+            session['diari_urls'], diari_date, doc_no = find_urls(legislature,
+                                                                  doc_no,
+                                                                  session)
+            session['datetime'] = str(session['datetime'])
+            session['diari_datetime'] = str(diari_date)
             cache_length = len(CACHE.keys())
-            diari = {'legislatura': legislature,
-                     'sessio': diari_session,
-                     'date': str(diari_date),
-                     'url': url}
-            diaris.append(diari)
             if cache_length%10 == 0 and cache_length != INITIAL_LEN:
                 with open('cache.json', 'w') as out:
                     json.dump(CACHE, out, indent=2)
-            doc_no += 1
-        diaris_leg[legislature] = diaris
         with open('cache.json', 'w') as out:
             json.dump(CACHE, out, indent=2)
-    return diaris_leg
+        legs[legislature] = sessions_sorted
 
-def find_urls(key, no):
-    diari_url = generate_urls(key, no)
+def find_urls(key, no, session):
+    diari_urls = []
+    current_date = session['datetime']
+    current_sessio, part = parse_metadata_sessio(session['title'])
+    #next_date =  next_session['datetime']
+    #next_sessio = int(parse_metadata_sessio(next_session['title']))
+    diari_url = generate_urls(key, no, session)
     diari_date, diari_sessio = parse_diari(diari_url)
-    print(diari_date, diari_sessio)
-    return diari_date, diari_sessio, diari_url
+    if part == 0:
+        while diari_sessio in current_sessio and diari_date != None:
+            diari_urls.append(diari_url)
+            no += 1
+            diari_url = generate_urls(key, no, session)
+            diari_date, diari_sessio = parse_diari(diari_url)
+            print(diari_sessio, 'vs', current_sessio)
+    else:
+        print('sessio in multiple parts')
+        while diari_sessio == current_sessio and \
+              diari_date.date() == current_date.date():
+            diari_urls.append(diari_url)
+            no += 1
+            diari_url = generate_urls(key, no, session)
+            diari_date, diari_sessio = parse_diari(diari_url)
+            print(diari_sessio, 'vs', current_sessio)
+            print(diari_date.date(), 'vs', current_date.date())
+    return diari_urls, diari_date, no
 
-'''
 def parse_metadata_sessio(title):
     title_step = title.replace('(Ple ', 'Ple (')
     title_step2 = title_step.replace('Sessió Ple','Sessió ')+' Ple'
@@ -101,9 +117,8 @@ def parse_metadata_sessio(title):
     if sessio_2:
         sessions + sessio_2
     return sessions, part
-'''
 
-def generate_urls(key, no):
+def generate_urls(key, no, session):
     roman = {'1':'I', '3':'III', '7':'VII', '8':'VIII', '9':'IX', '10':'X'}
     legislature_no = roman[RE_NO.findall(key)[0]]
     code_l = "{:<4}".format(legislature_no)
