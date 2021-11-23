@@ -1520,8 +1520,12 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2011-MAR-02/1",
       "datetime": "2011-03-02 10:37:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001540&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2011-03-02 10:37:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTM2YWEwOWEtZjUwYi00MzFlLWE2MTktNTFhZTA5YzRlNjc4",
@@ -1532,8 +1536,12 @@
       "\u00d3rgano:": "Ple",
       "C\u00f3digo:": "PL-VII/2011-MAR-03/1",
       "datetime": "2011-03-03 10:01:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII 001550&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2011-03-03 10:00:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OTRkOWQ2ZDQtMzk2Zi00ODI0LTg3NjAtZDAwOWUwNDY5ODY4",
@@ -5069,8 +5077,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-12-18 10:42:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000200&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2019-12-18 10:42:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzQzYThlOGUtNmMzNi00NTczLTg4MjAtMjk5MTk4NTVjODNm",
@@ -5080,8 +5092,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-12-18 16:37:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000200&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2019-12-18 10:42:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=Mzc5M2ZhODQtNTJmZC00ZTVjLTk1ZGUtMGE1NzkzZmRkOGY0",
@@ -5091,8 +5107,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-12-19 10:07:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000210&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2019-12-19 10:07:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDQ5MjliNzMtNGUyNS00OTJkLWExZTgtM2Q3Mzc2ZTUzMjY1",
@@ -5102,8 +5122,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2019-12-19 16:03:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000210&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2019-12-19 10:07:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NTVlNDlhMmEtM2ZmOC00MWFhLWI2NTQtZTRhNGYzNWFlOWU5",
@@ -5113,8 +5137,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-02-05 10:38:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000220&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-02-05 10:38:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YzhmNTRlNzktOGQ2My00YzE5LWJhMTgtNjdlMzA0MDcyMjVk",
@@ -5124,8 +5152,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-02-05 16:02:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000220&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-02-05 10:38:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=Nzc4NWEzNDgtZDAwNi00N2NhLTk5YWQtOGIyYmUwNTdjZGQ1",
@@ -5135,8 +5167,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-02-06 10:16:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000230&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-02-06 10:16:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ODczYjk1NjMtYTdhNi00ZmFmLTg4YmItNzQ0OTliYTY1MWZk",
@@ -5195,8 +5231,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-05-25 10:08:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000290&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-05-25 10:08:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YmEyYjE0ODEtYjNhYy00MGMzLTgxNzgtNzllMTYwNjEyZjgw",
@@ -5206,8 +5246,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-05-27 10:07:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000300&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-05-27 10:07:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NDczMGUwZjctYjBhYy00NTBlLTg2NzgtMDc1M2M1OTc3ZTYw",
@@ -5217,8 +5261,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-05-28 10:05:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000310&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-05-28 10:05:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MjBmZmJkMjUtMzNjMy00ZTJjLWIzNzEtYzNkMTNlYzdiMzJh",
@@ -5228,8 +5276,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-06-15 10:05:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000320&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-06-15 10:05:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NTBlMTk5ZGMtZDVlOC00NGY2LWFhYzMtZDY2Nzg5YzljZTli",
@@ -5239,8 +5291,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-06-16 10:03:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000330&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-06-16 10:03:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZmVmZTY0OTgtYjkzMy00YTc5LTk0YzQtMGY5N2I3MWFlN2Rh",
@@ -5250,8 +5306,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-06-18 10:08:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000340&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-06-18 10:08:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MjkwN2FhNmEtODNiZS00NzczLThiYzQtZmY1ZjQzM2M2MDQx",
@@ -5276,8 +5336,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-07-21 10:07:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000360&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-07-21 10:07:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NDQ5Y2EyMDEtNzhmYi00M2Y5LTk0ODgtYWE2YWNlNmNlOTdi",
@@ -5287,8 +5351,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-07-21 16:04:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000360&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-07-21 10:07:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NjFmM2QzNDYtNTc4Mi00ZGI3LWFhNjAtOGYxNWYzMWFmM2Y1",
@@ -5298,8 +5366,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-07-23 10:07:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000370&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-07-23 10:07:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZGI0MjIwMzAtNWM3Yy00YzA2LWExOGEtMmZhZjU1OTE1YmE5",
@@ -5309,8 +5381,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-08-04 10:03:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000380&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-08-04 10:09:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MjRjZTRjNTMtOTI2Ni00NjU4LWI0NjktMDZkMGM1YjlmYjJj",
@@ -5320,8 +5396,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-08-04 16:38:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000380&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-08-04 10:09:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZDBjZjI3MTQtNjEwZS00MTM1LWFjMTUtZDI2Nzg4OGI3OTc0",
@@ -5331,8 +5411,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-08-06 10:04:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000390&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-08-06 10:04:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzY4NTU2YTktMzkxNi00YjYyLWE4NmMtMGFlMWYyYjJjNWU2",
@@ -5342,8 +5426,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-09-21 12:09:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000400&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-09-21 10:06:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ODg0ZWRmNWEtYzhlZS00YTQ2LWJkYmQtMThhZTA1MmM1OGQ1",
@@ -5353,8 +5441,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-09-21 16:35:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000400&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-09-21 10:06:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjA4Mzk2NjAtMjViMy00OWUwLTg4NDQtOWQ5Y2Y1YjFjMDBl",
@@ -5364,8 +5456,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-09-23 10:07:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000410&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-09-23 10:07:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NDM5ZWU1NjItMzU3MS00ODc5LThhZjgtNTc5ZjQzNmRjZjNk",
@@ -5375,8 +5471,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-09-23 16:01:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000410&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-09-23 10:07:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NDVlN2U4ODEtODAwMi00YmViLWI0NjgtYzAyNGVjYTZkMGY0",
@@ -5386,8 +5486,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-09-25 10:35:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000420&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-09-25 10:35:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZjBiMTFhOGYtYjRlYS00ZjNiLWE1YzctNzE0NmFjMTMwNjlk",
@@ -5397,8 +5501,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-09-29 10:34:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000430&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-09-29 10:34:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YTIyN2RlMzAtMTcxMy00NjIxLWJlZTYtMTlhZGFlOTRlNGNm",
@@ -5408,8 +5516,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-09-29 16:07:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000430&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-09-29 10:34:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OTQ0NzNhOTMtMmQwYS00OTUwLWE0MzQtY2YxMWMyM2I0YWM4",
@@ -5419,8 +5531,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-10-01 10:07:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000440&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-10-01 10:00:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YzM2MDg1MDYtYjc0MS00NmJjLTlkOWYtZjY4MjNiY2I4NTYz",
@@ -5430,8 +5546,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-10-14 10:36:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000450&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-10-14 10:36:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OGZlYzAxNGQtZmY0Yy00MzExLWIxN2ItOWUwZmVlOTNhNDNj",
@@ -5441,8 +5561,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-10-14 16:31:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000450&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-10-14 10:36:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NWFjNGFlZmYtNzk4Mi00NjA1LTgwMDAtNjM0YTlhZjFjMTQ4",
@@ -5452,8 +5576,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-10-15 10:05:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000460&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-10-15 10:05:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZjExMTRhNTMtYTNjYi00NjBmLWJkYTctNjRjYTFhYjNjYmE1",
@@ -5463,8 +5591,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-10-28 10:36:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000470&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-10-28 10:35:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjAyN2Y3YTItZjExMS00YzNmLWIzZWEtZTY3MmMzYjlkZjgy",
@@ -5474,8 +5606,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-10-28 15:35:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000470&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-10-28 10:35:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=Mzc2ZjRmMmUtYzY5NC00ZjJkLWI5YjYtNzIxYWM0ODE0ZGY2",
@@ -5485,8 +5621,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-10-29 10:05:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000480&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-10-29 10:05:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZjdjNjE3ODEtNmVlMi00YmMwLWI5ZTUtNjJhMDNhMzFhYjQ0",
@@ -5526,8 +5666,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-11-25 10:39:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000510&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-11-25 10:40:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YTNmZWZiMzItN2JlZi00YzFiLTg3NWUtZmQ5ZTZiYjY4OGZk",
@@ -5537,8 +5681,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-11-25 16:04:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000510&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-11-25 10:40:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=N2QzODM2NzAtNjI3Ni00YTQ2LWJhYjEtMjBmN2JhNTExNTVl",
@@ -5548,8 +5696,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-11-26 10:05:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000520&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-11-26 10:05:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTlkNjRkODgtNTVmMy00ODQ2LTgxMzktOTgzODMxOWEzYWQ4",
@@ -5559,8 +5711,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-12-21 10:37:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000530&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-12-21 10:37:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NGI4MGQwNTAtZWRkMS00YTgxLWIxNDktZTZmYjNlMjA2NGZj",
@@ -5570,8 +5726,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-12-21 16:05:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000530&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-12-21 10:37:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=N2E4MGRmNDUtMDVhMy00NmUzLWJkZTgtYmQ0OTk1ZTFiNzYx",
@@ -5581,8 +5741,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-12-22 10:06:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000540&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-12-22 10:07:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=Y2MxZjQzNTEtNGYzMS00MmE0LTgyNDMtYTAwZGRmNzYxNDY0",
@@ -5592,8 +5756,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-12-22 16:29:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000540&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-12-22 10:07:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjM5OTBjZTYtM2M1MC00NGY5LWI2NDktOGVkYjBjOWMzMGU2",
@@ -5603,8 +5771,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2020-12-23 16:08:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000550&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2020-12-23 16:08:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDRjOTE3MTktMGYwOS00MWNlLWFhMGYtMjgyZGVlNWNmNDVk",
@@ -5614,8 +5786,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-02-10 10:38:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000560&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-02-10 10:38:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzhjYmI1MDctZmU0MC00MWQ1LThlY2MtODIwNGVjMjFlNjQw",
@@ -5625,8 +5801,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-02-11 10:03:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000570&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-02-11 10:03:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZDJmZjgwY2YtMWZiMC00MDAwLWE5ZDAtOTI5OTEwN2IyODU1",
@@ -5636,8 +5816,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-02-24 10:39:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000580&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-02-24 10:40:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=M2U4YTE5ZDYtMDc5NS00MWRlLWFjNGYtNjJiNTE5YzQxNWYx",
@@ -5647,8 +5831,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-02-25 10:05:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000590&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-02-25 10:06:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YTZmNDVkZDAtOTIyYS00NDU4LWFkYzMtYzE5MzQ4MDg1MzJh",
@@ -5658,8 +5846,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-03-10 10:37:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000600&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-03-10 10:37:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NzQ3NWUxNWQtMTExZi00NmMxLWE1MzMtMDY2M2NkZDVlM2Ni",
@@ -5669,8 +5861,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-03-11 10:05:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000610&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-03-11 10:05:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NzJmMDBlNGMtYzMyNi00NTE4LWFjMzQtODVjYThhNmE4ZmM0",
@@ -5680,8 +5876,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-03-11 14:02:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000620&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-03-11 14:03:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTU5NWMwYTctYjFhNy00NzRlLWI5MmEtZTRlYTkyYTkyMzA4",
@@ -5691,8 +5891,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-03-11 16:36:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000620&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-03-11 14:03:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MTI2ZGEyMzItNzA2NC00MGI2LTljNDUtZjUzOGMwNjRjYzkx",
@@ -5702,8 +5906,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-03-24 09:35:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000630&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-03-24 10:40:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZGQ5OWQ1ZWMtN2U4Yi00MDAzLTlmYzYtNTc3NDdmYTdmYTNh",
@@ -5713,8 +5921,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-03-25 10:06:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000640&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-03-25 10:07:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzNmZjhhOTAtMmRkZS00OTVhLWEzZjQtMWIwZWJlNmExMmVl",
@@ -5724,8 +5936,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-04-21 10:31:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000650&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-04-21 10:31:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZDI0ZjJiN2ItZjA3Yi00ZGQxLTg0MzYtYjBkM2YwNjE0Zjgw",
@@ -5735,8 +5951,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-04-22 10:05:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000660&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-04-22 10:05:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ODU5NmQ5NGMtNWQ4Zi00OGNlLWFlYjMtNjAzZGQ2MTJkMDE3",
@@ -5746,8 +5966,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-04-28 10:37:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000670&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-04-28 10:37:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YzE3ODgzZGMtMDczYy00YWIzLTgxOGMtY2M5M2QxODcwYWNi",
@@ -5757,8 +5981,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-04-29 10:04:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000680&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-04-29 10:04:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MzU4YWJjMmQtNDlhNC00NmUwLWI5OWYtZmU3MGIyOGQxMDdl",
@@ -5768,8 +5996,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-05-05 10:34:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000690&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-05-05 10:34:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NjY0OWMzODAtZjVlOS00MWIzLTk3NGItYWM0ZTc0OTIyNWQ2",
@@ -5779,8 +6011,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-05-06 10:03:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000700&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-05-06 10:03:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OTgwY2U4ODQtNTEzZS00YzIzLTgzM2MtNTk2ODMzMWFjNzM4",
@@ -5790,8 +6026,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-05-19 10:37:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000710&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-05-19 10:06:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NjkwNDkwNmItNTJiNS00YjY1LWI1YWYtZDIxZWMxN2NiYmI2",
@@ -5801,8 +6041,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-05-20 10:06:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000720&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-05-20 10:06:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YjBjYzU0ZGEtZWQyZi00OGVlLTg3MTgtMzRiYjI2N2RkZmEy",
@@ -5812,8 +6056,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-05-26 10:51:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000730&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-05-26 10:54:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDI5ZGZmNWMtNDU1YS00NWY5LTk2ZjItYjM3MmEyMDM4OGNl",
@@ -5823,8 +6071,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-05-27 10:04:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000740&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-05-27 10:04:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MDYxMDllNGItMjE1Ni00MDUzLWEwNzEtN2IwMjYyMDgyZmU4",
@@ -5834,8 +6086,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-06-09 10:36:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000750&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-06-09 10:36:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZDcyYjRhNmEtMjQ3My00NTE3LWI1OTEtOTM5NDNhZmFiN2Fh",
@@ -5845,8 +6101,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-06-10 10:06:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000760&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-06-10 10:06:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZDZmOWM5NzgtNjViMS00NWI3LTg0ZTUtMWE0ZDgzMTAwYzYw",
@@ -5856,8 +6116,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-06-16 10:32:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000770&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-06-16 10:32:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NzNiYzAwYzEtYmVjZi00NmRhLTlmMTEtMWQ5NDNlZTZjMTUz",
@@ -5867,8 +6131,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-06-17 10:07:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000780&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-06-17 10:07:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OTM0ODY5ZTMtNDYyMi00ZjY1LWFhYzMtMmI0MDY0YTk5ZjM3",
@@ -5878,8 +6146,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-07-07 10:38:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000790&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-07-07 10:39:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=OGM5NjM1ZGEtNmJhMS00ODMxLTljN2MtYzI2ZTYyMWM0OTMx",
@@ -5889,8 +6161,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-07-08 10:03:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000800&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-07-08 10:03:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=MmM0ZDAzZWMtNDM5Mi00ZTFlLWE2YzQtNWMyYmNhZDIwYzQz",
@@ -5915,8 +6191,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-09-27 10:07:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000820&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-09-27 10:07:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=YWVlYjYxOGUtZTJhMy00MTcyLWExY2EtZDNkYjYzNDc5MzNm",
@@ -5926,8 +6206,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-09-27 15:37:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000820&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-09-27 10:07:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ODA5OWQ0ZTQtYTgyOS00YjU1LTg5YWUtZjcwNDhlZWM2MGI1",
@@ -5937,8 +6221,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-09-29 10:06:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000830&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-09-29 10:06:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=NjJhYzNiZjMtZjM5MC00MDRlLTk1MTctMzJiODM3ZGJjODA0",
@@ -5948,8 +6236,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-10-20 10:36:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000840&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-10-20 10:36:00"
+      ]
     },
     {
       "url": "https://mediateca.cortsvalencianes.es:443/watch?id=ZWRmMTEwNDUtMTNkNC00MTc1LWE5ODgtMDI3Y2VlYTdjYzkw",
@@ -5959,8 +6251,12 @@
       "Legislatura/Mandato:": "10 a Legislatura",
       "\u00d3rgano:": "Ple",
       "datetime": "2021-10-21 10:00:00",
-      "diari_urls": [],
-      "diari_datetimes": []
+      "diari_urls": [
+        "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=X   000850&idioma=ca_VA"
+      ],
+      "diari_datetimes": [
+        "2021-10-21 10:04:00"
+      ]
     }
   ]
 }

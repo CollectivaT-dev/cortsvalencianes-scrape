@@ -41,7 +41,7 @@ def match(legs, diaris_leg):
                     diaris.pop(i)
             ordered_diaris = sorted(diaris, key=lambda x : x['datetime'])
             for i, session in enumerate(sessions_sorted):
-                print(session['title'])
+                #print(session['title'])
                 session['diari_urls'], session['diari_datetimes'] = match_urls(session,
                                                                        ordered_diaris)
                 session['datetime'] = str(session['datetime'])
@@ -56,20 +56,16 @@ def match_urls(session, diaris):
     if part == 0:
         for i, diari in enumerate(diaris):
             if diari['sessio'] in current_sessio:
-                print(diari['sessio'], diari['url'])
                 diari_urls.append(diari['url'])
                 diari_dates.append(diari['date'])
-            #elif diari['sessio'] > current_sessio:
-            #    break
     else:
         print('sessio in multiple parts')
         for diari in diaris:
-            if diari['sessio'] == current_sessio:
+            if diari['sessio'] in current_sessio:
                 if diari['datetime'].date() == current_date.date():
                     diari_urls.append(diari['url'])
+                    diari_dates.append(diari['date'])
                     print(diari['sessio'], diari['url'])
-            #elif diari['sessio'] > current_sessio:
-            #    break
     return diari_urls, diari_dates
 
 def parse_metadata_sessio(title):
