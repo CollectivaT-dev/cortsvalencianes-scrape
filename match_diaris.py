@@ -8,7 +8,7 @@ def main():
     legislatures = leg_order(pages)
     diaris_leg = json.load(open('diaris.json'))
     match(legislatures, diaris_leg)
-    with open('items_diaries.json', 'w') as out:
+    with open('items_diaris.json', 'w') as out:
         json.dump(legislatures, out, indent=2)
 
 def leg_order(pages):

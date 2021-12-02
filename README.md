@@ -28,8 +28,9 @@ python generate_diaris.py
 ## Tasks to do:
 
 * [] fix download.py for continuous download
-* [] fix generate diaris
-* [] scrape speakers and timestamps for each intervention in a session
+* [x] fix generate diaris
+* [x] match diaris with videos
+* [x] scrape speakers and timestamps for each intervention in a session
 * [] write diari parser in speaker, intervention format
 * [] structure output for `long-audio-alignment` format
 * [] persist in a db
