@@ -35,7 +35,11 @@ def get_id(url):
     return ple_id 
 
 def generate_path(ple_id):
-    ple_path = os.path.join('jsons', ple_id[0], ple_id[1])
+    if len(ple_id) >= 2:
+        dir2 = ple_id[1]
+    else:
+        dir2 = '0'
+    ple_path = os.path.join('jsons', ple_id[0], dir2)
     if not os.path.isdir(ple_path):
         os.makedirs(ple_path)
     return os.path.join(ple_path, ple_id+'.json')
