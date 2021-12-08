@@ -1,8 +1,11 @@
 import requests
 import json
 import os
+import re
 from bs4 import BeautifulSoup as bs4
 from collections import Counter
+
+RE_SP = re.compile('\s+')
 
 def main():
     id_file = "items_diaris_metadata.json"
@@ -38,7 +41,9 @@ def parse_url(url):
     soup = bs4(res.content, 'html.parser')
     spk_attr, spk_style = get_spk_style(soup)
     session = parse(soup, spk_attr, spk_style)
-    return session
+    if session[0]['intervinent'].startswith('Ple'):
+        session.pop(0)
+    return {'url':url, 'results':session}
 
 def get_spk_style(soup):
     # return the class of the first line, which is always bold
@@ -77,20 +82,8 @@ def parse(soup, spk_attr, spk_style):
 def append_and_clean(session, intervention):
     intervention['intervencio'] = ''.join(intervention['text'])
     intervention.pop('text')
+    intervention['intervencio'] = RE_SP.sub(' ', intervention['intervencio']).strip()
     session.append(intervention)
-
-'''
-def parse_old(soup):
-    txt_style = get_txt_style(soup)
-    spk_style = get_spk_style(soup)
-    
-
-def get_txt_style(soup):
-    classes = []
-    for span in soup.find_all('span'):
-        classes.append(span.attrs['class'][0])
-    return Counter(classes).most_common()[0][0]
-'''
 
 if __name__ == "__main__":
     main()
