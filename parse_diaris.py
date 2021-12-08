@@ -12,6 +12,7 @@ def main():
     out_file = "items_diaris_metadata_text.json"
     ids = json.load(open(id_file))
     for legislatura, plens in ids.items():
+        print(legislatura)
         for ple in plens:
             diari_files = []
             for i, url in enumerate(ple['diari_urls']):
@@ -23,14 +24,14 @@ def main():
                     diari_path = os.path.dirname(diari_file)
                     if not os.path.isdir(diari_path):
                         os.makedirs(diari_path)
+                    print(url)
                     session = parse_url(url)
                     with open(diari_file, 'w') as out:
                         json.dump(session, out, indent=2)
             ple['diari_files'] = diari_files
-            break
 
     with open(out_file, 'w') as out:
-        json.dump(plens, out, indent=2)
+        json.dump(ids, out, indent=2)
 
 def construct_path(path, i):
     path = path.replace('jsons', 'diaris')
@@ -82,8 +83,13 @@ def parse(soup, spk_attr, spk_style):
 def append_and_clean(session, intervention):
     intervention['intervencio'] = ''.join(intervention['text'])
     intervention.pop('text')
-    intervention['intervencio'] = RE_SP.sub(' ', intervention['intervencio']).strip()
+    intervention['intervencio'] = \
+                      clean(intervention['intervencio']).replace('. . .','...')
+    intervention['intervinent'] = clean(intervention['intervinent'])
     session.append(intervention)
+
+def clean(string):
+    return RE_SP.sub(' ', string).strip()
 
 if __name__ == "__main__":
     main()
