@@ -1,15 +1,42 @@
 import requests
+import json
+import os
 from bs4 import BeautifulSoup as bs4
 from collections import Counter
 
 def main():
-    pass
+    id_file = "items_diaris_metadata.json"
+    out_file = "items_diaris_metadata_text.json"
+    ids = json.load(open(id_file))
+    for legislatura, plens in ids.items():
+        for ple in plens:
+            diari_files = []
+            for i, url in enumerate(ple['diari_urls']):
+                diari_file = construct_path(ple['metadata_file'], i)
+                diari_files.append(diari_file)
+                if os.path.isfile(diari_file):
+                    print('%s already parsed and downloaded'%diari_file)
+                else:
+                    diari_path = os.path.dirname(diari_file)
+                    if not os.path.isdir(diari_path):
+                        os.makedirs(diari_path)
+                    session = parse_url(url)
+                    with open(diari_file, 'w') as out:
+                        json.dump(session, out, indent=2)
+            ple['diari_files'] = diari_files
+            break
+
+    with open(out_file, 'w') as out:
+        json.dump(plens, out, indent=2)
+
+def construct_path(path, i):
+    path = path.replace('jsons', 'diaris')
+    return path.replace('.json', '_%i.json'%i)
 
 def parse_url(url):
     res = requests.get(url)
     soup = bs4(res.content, 'html.parser')
     spk_attr, spk_style = get_spk_style(soup)
-    print(spk_attr, spk_style)
     session = parse(soup, spk_attr, spk_style)
     return session
 
@@ -31,7 +58,6 @@ def parse(soup, spk_attr, spk_style):
     session = []
     intervention = {}
     for text_el in soup.find_all('span'):
-        print(text_el.attrs)
         el_attr = text_el.attrs.get(spk_attr)
         if type(el_attr) == list:
             el_attr = el_attr[0]
